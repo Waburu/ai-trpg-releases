@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 4,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p4.pck",
-    "sha256": "df4aa58fcce6c92220bae07e936c83115f9cef0a5065dc772b216fa2a9421d4f",
-    "sig": "R7qCgrqY3f8Oa+BHVWZo7kf0cBi4PWPfLRrtpcJ89jrfhgcbrpIZ0ZmlEjgZpLt4YgCxI80r4BeA4q6fFuvkIceZ+A3v0Ho9Zuv7HiFKfQeVmcRV7HojUAlLqPEu0TZWpsFWoAem2uDBjSPw9iKHO4rEw6MG0Oob8ChogSjPSdE+/9xzDDXQjf6Kj3cuoYZmg6lR9xXUmgTt8MYwDc0izeXL8EedscdEx+GssfWuS2t6YJb8XbUYZ0kytUCn94KrVungm4pwv2Fs9JOXAqCTYS5C2DeBfISDbJtuAClg7vZUinJbI5Ej6tsQWJbhN9Db/WOYUpAOfDRS4wz9Sh/r4A==",
-    "size": 120500,
-    "notes": "**0.1.4 패치 4**\n- 페르소나 편집, 프롬프트 편집, 이야기 안 페르소나 수정은 이제 위쪽 [저장]을 눌러야 반영돼요. 고친 채 나가려 하면 저장할지 물어봐요.\n- 프롬프트 내용 칸이 화면 안에 고정되고, 칸 안에서 굴려 읽어요.\n- 글 칸을 손가락으로 끌면 글이 선택되지 않고 화면이 굴러가요. 짧게 누르면 그 자리에 쓰고, 두 번 누르면 단어를 선택해요.",
+    "n": 5,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p5.pck",
+    "sha256": "f417fa43e74ee17c4c388d7985adf2f4420cf7c12697490f372a703f719e1901",
+    "sig": "1AOHS7N8mFnqehYLHfqlavcPzUzQ+2ZmYFAsk4xBhx/vEpE7RCmlmpwrejJS4CzUxk5J82haJv+uDsAV3MNMx2IkyvZI6R0e5E4CS4eS7htWv0fm1UFYa1PqfOvIpi0L2EQ3jNwnawai9kVF5UYM1ooF0pb0XAhLz6ya6geWuV6CwEvJjHcvO8oE8x3Yk7BT0VRmDpF6sFVUuZ7YuDPReBLCaTgB7h45utsMiLofGQoTDaRVmYQE/7yuRaSiP0dcQyYZ97WE/bHsco1ChNRyDT8EX2HhrVZeiqoFa3aVfMNvdZkt0Na6ZuyT5G/Oe8s4a3LZLlCrpMEnEGVPpYtKYg==",
+    "size": 121332,
+    "notes": "**0.1.4 패치 5**\n- 월드 편집기도 이제 위쪽 [저장]을 눌러야 반영돼요. 편집기 안에서 화면을 오갈 때는 묻지 않고, 고친 채 편집기를 나가려 하면 저장할지 물어봐요.\n- 그림·표지·지도는 고르거나 지우는 즉시 저장돼요.",
     "published_at": "2026-10-08"
   }
 }
