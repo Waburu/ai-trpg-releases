@@ -1,10 +1,10 @@
 {
   "app": {
-    "version_code": 2,
-    "version_name": "0.1.1",
-    "apk_url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.1/AI_TRPG-0.1.1.apk",
-    "release_url": "https://github.com/Waburu/ai-trpg-releases/releases/tag/v0.1.1",
-    "notes": "**0.1.1 — 첫 테스트 빌드**\n- 이전 설치본이 있다면 **지우고 다시 설치**해 주세요. 서명이 바뀌어서 덮어쓰기 설치가 안 돼요. 저장된 이야기와 API 키는 지워져요.\n- 아젤란 월드가 기본으로 들어 있어요.\n- 기본 프롬프트 3종(기본 방침, 한글 출력 개선, 성적 묘사)이 처음부터 들어 있어요.\n- 월드 화면 맨 위에서 앱 새 버전을 확인할 수 있어요. 월드팩과 프롬프트의 새 판은 [갱신]·[받기]로 받아요.",
+    "version_code": 3,
+    "version_name": "0.1.2",
+    "apk_url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.2/AI_TRPG-0.1.2.apk",
+    "release_url": "https://github.com/Waburu/ai-trpg-releases/releases/tag/v0.1.2",
+    "notes": "**0.1.2**\n- 휴대폰의 아래 버튼 줄(뒤로·홈·최근 앱)과 위쪽 상태 표시줄이 다시 보여요. 앱이 화면 전체를 덮지 않아요.",
     "published_at": "2026-10-08"
   },
   "worlds": [
