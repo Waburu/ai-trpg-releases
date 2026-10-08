@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 9,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p9.pck",
-    "sha256": "ecc2b350a79e94357728018dedf43d891bb2b1c5bfbcfeac01b23ae56fc31232",
-    "sig": "JtdO+mFBPUbgrjBJZ62nbntW0b/i7rZ5qDzGKGT+qEGdmDnMpr9YxJweEvzBsZYFdmkeAbivBP9qwufHSlntMUdcKRXU5NBcePDtsXADfk3vIQR9yXjflxQalsDsPFqSbw8W5yKWl5vgJOWN4qq3jGd/3xSGXxih+2BBUKrFmNjsNNZdoUuL7EXUcU/JryFhxJws26XsM2bAi/nhWooHu98ExHMNaA/uNkiBzVs8Q9jB29elci0vyC+sAQ5gcBcKO+wNHfXAg5IvzXjP27kLjAgBveEGlTIaM90YI4wrQDMnINw21dCFrBYJE8mBAhB8dsK19j14jCeF5+2Q+0Bwtg==",
-    "size": 290636,
-    "notes": "**0.1.4 패치 9**\n- 페르소나 설명처럼 여러 줄 글 칸에서, 누른 자리부터 글자가 잘 지워져요.\n- 자판을 닫은 뒤 글 칸을 다시 누르면 자판이 다시 열려요.",
+    "n": 10,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p10.pck",
+    "sha256": "9de76b3dca1736f3335223c82832c5f4da2aa8fb90c53f5aaf47c8b9c69a64d4",
+    "sig": "bbWUvud/QICmn0rqePrcDbV4aDik4YXfkKQCAPgyZXH5ANCNJUjI4lwLrHg6eq67lGVou8njVk5YBDgHn4G51TFglHKraGQeNx8sBF92SZ0LHH7gqPSl4myA+uRzB3yfrLd/FR/b42y3LdkWLMloXJaUCo5wmmKdBP+Wc9vOQ72VJwRNYvrF0EjcetjkI4pXCmdQ7iJKIdc/XKLVfgb178wJdlj5obbC+8v7nX0/qkGBbKo30LKHVkkHaloxWgFwaIZ91E38EUywtvvXUlKZyTktRCyLgU4Gb87g6QuwDlmw5UjhZuffyF5Gqarbwyq1RBFU78iv1iusYqCDNdjeRA==",
+    "size": 330336,
+    "notes": "**0.1.4 패치 10**\n- [분석 꾸러미 저장]에 마지막으로 한 이야기가 함께 담겨요. (이야기 밖 설정에서 저장해도 돼요)",
     "published_at": "2026-10-09"
   }
 }
