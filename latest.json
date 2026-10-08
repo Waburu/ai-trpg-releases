@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 1,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p1.pck",
-    "sha256": "93968a90e1b9d4b0f7595e36b73bb4a8fc65585373b223a661800910f4635d62",
-    "sig": "Q1ilhggZVKPwSIv365fOQHnwPhZOb51TC33vmdYgD2rxp+xKF3ltMQxC1V5npgpLbMkxW1dmkP4krEedtNCdn1FElmWx2gOIBY92KTShh/FZexjQgl/ppNVFNv24Z0TgkJb3s4RetjSBibGb5tX0c7p1u4JXjR5l9fCttfSorsyX5/cDWo8kttS6wl9g2+hfwW4QZA5QapMd2CmyBz3tUUSt5yVv63slzn4lOUPGGKVJc4ej2j25pvp6844lSEkFN9SivjliIGx5cofEEJQ/qhNX/q8CPJYy7g8EdSVIXLet/m515pkdxcxMDVajN73S8i+dQzY5rhJLW8VqafzmTw==",
-    "size": 35236,
-    "notes": "**0.1.4 패치 1**\n- 월드 편집 화면의 입력 예시 문구를 어느 월드에나 맞는 일반 예시로 바꿨어요 (예전 예시 월드 벨로스 내용 정리).",
+    "n": 2,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p2.pck",
+    "sha256": "629fe3113f685fde3dad1b27b72af1eb66c9b5b6ab3ae0055803e0772ff8442e",
+    "sig": "qrAs05oQ1Hl9I2gWTW5RRMX9N6pnP9cFRG/UNpG1rpSpJmDM5UBVD5v4aUHapsODlRlZ+Pl/ai54gnH62IPFofTHob+GkbpkUAPR+gSrF7XK+mraxIvLh942uGcTHbLk4Y8XIJEMxFhn/aPOCXjbUuyWijQ/tUexJZ7H+gpxMZweuJcZWXuelFttwWNNK73PpuZ+mzAZCdr+/p+RpfziIE7N4VCDZyUx+ktXEEUklGZgSZM3SFweHnhPmTnkgsCbGtjgWT58x2VB/lkGWViITtoZIDlYJcuM2+lGm65v9EB/eUwis1YVuZVLni8qQQB0V3yYyGMmsuSq8dSO7LH0VA==",
+    "size": 54200,
+    "notes": "**0.1.4 패치 2**\n- 새 버전·패치 확인이 몇 분씩 늦던 문제를 고쳤어요. 이제 올린 즉시 확인돼요.\n- 패치를 받는 중이거나 받지 못했을 때 맨 위 줄에 표시돼요.",
     "published_at": "2026-10-08"
   }
 }
