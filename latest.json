@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 2,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p2.pck",
-    "sha256": "629fe3113f685fde3dad1b27b72af1eb66c9b5b6ab3ae0055803e0772ff8442e",
-    "sig": "qrAs05oQ1Hl9I2gWTW5RRMX9N6pnP9cFRG/UNpG1rpSpJmDM5UBVD5v4aUHapsODlRlZ+Pl/ai54gnH62IPFofTHob+GkbpkUAPR+gSrF7XK+mraxIvLh942uGcTHbLk4Y8XIJEMxFhn/aPOCXjbUuyWijQ/tUexJZ7H+gpxMZweuJcZWXuelFttwWNNK73PpuZ+mzAZCdr+/p+RpfziIE7N4VCDZyUx+ktXEEUklGZgSZM3SFweHnhPmTnkgsCbGtjgWT58x2VB/lkGWViITtoZIDlYJcuM2+lGm65v9EB/eUwis1YVuZVLni8qQQB0V3yYyGMmsuSq8dSO7LH0VA==",
-    "size": 54200,
-    "notes": "**0.1.4 패치 2**\n- 새 버전·패치 확인이 몇 분씩 늦던 문제를 고쳤어요. 이제 올린 즉시 확인돼요.\n- 패치를 받는 중이거나 받지 못했을 때 맨 위 줄에 표시돼요.",
+    "n": 3,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p3.pck",
+    "sha256": "273efd12aa438ee2526b64d6e3300e02df52f55d50b0555e9747910180619be7",
+    "sig": "JrEGjLfLIFHxoTrxd5bJGncNK7c0rYLmncNkqGi1x9IsqhwsoJeOwJJiZZl1XI6BEDbslWd9LCxAGYEAwHJ/ip3ZgjhjMlFq7eVYC7IRBe88sredG/evJYDcsfMwy+rJDwevLAN6LyZ1OGnQS06oOB3xPYD4SW8JMCRwWlrD1Kc/veCgwF+rkgefATUyz2CUNkSf+5IidiZb/3f6h+PjPuFLe7vsSa9gqODx/3sw/iFsIgY0+gaGi/+iDfmqc5ytqsqKYP0Izc8unQf61hDLMTAOuJuRgE28hJw9ER4JSI4kgAWO4TWjhgGRja2IvRTYJEqVKO2XCOWqikJGySzTNQ==",
+    "size": 66004,
+    "notes": "**0.1.4 패치 3**\n- 패치가 적용된 첫 실행에 이렇게 한 번 알려 드려요.\n- 월드팩·프롬프트 변경 내용에 보이던 ** 표시를 정리했어요.",
     "published_at": "2026-10-08"
   }
 }
