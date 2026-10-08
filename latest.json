@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 11,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p11.pck",
-    "sha256": "6ec6345dfcde2abd8d7d2b241cb840de36bc5916896a7ca101934ee204908547",
-    "sig": "XAgrGDeaqz+km2ZiiL2nbDz4zb5ccvpsXePSAT23DBeund6xxKNeddXcTTU6I8KuIzySRRppHCTMGiprwTUUiiUQ69YG8KcuB2scHeGWIF9Z6MfbFSt47/2IOke0rGbpB591iyszfODkz2bJ+3x+Q7EmryLhjMbrsITJOyZMHTgEXxW5+KR17Oa3K49qlahZjseqnUE+/jnnToqbbnOyHGMiyCaHvRokWJrU4/c3YAK5rIlMSdr82VrzNDuaF9g7tZzU6mGhUpurVfL98ZfA0hJAQ7IR9T3GGTEW1H3ZUe4q8l2u/LIs39Y4HBJgwxrdk+DbPCA/rf2eGyulNtwugQ==",
-    "size": 365380,
-    "notes": "**0.1.4 패치 11**\n- 지도에서 현 위치가 안 보이고 새 마을이 올라가지 않던 문제를 고쳤어요. 진행 중인 이야기도 다음 턴부터 위치가 잡혀요.\n- 연출 설정(PC 조작·시점·분량)을 플레이 중에 바꿔도 비용이 튀지 않아요.",
+    "n": 12,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p12.pck",
+    "sha256": "8deca741a674b784bac9990a6acd82dfe08e1f0c44f83b556f76f613047c9a3d",
+    "sig": "bvQ3kSP55lJtRiO7AjaWRcZUXQQ19TP7BMpBgMnIDq0pDERL75Xawdoh3Rp9+QA5ItI804mWUrrWvACWXPAaX6te6IcbxCOpuKE0qOswnCcBwN7f7PFgEQsJ9jstDkF/5HCvUNb9pkUZGYt4Xxbcyk3mtgpbkS1wRxJ/t2DzKGxv+Ae2yeh1G/ORq8OLJ6j3+O46eCHPnejaf9VjAIxGa68jGPpqV2+OKbqmAwkmDuSVDB7CWHnH4Qwf8nd1n1ZZns5tY1IFxQ/BPvNEX5Jekidmc8PJouiEUCiw5G9G6fqKyEMGOcpbVY4CB3/rjhe19GPrVk8A/DO66u3I1LbiXw==",
+    "size": 421628,
+    "notes": "**0.1.4 패치 12**\n- 상황 서랍을 손가락으로 끌어 스크롤할 수 있어요. 인물이 많아도 아래까지 내려 볼 수 있고, 목록 끝에 여백을 두었어요.\n- 기억은 최신이 앞에 와요. 기억 탭 1쪽 맨 위가 가장 최근이고, 인물 화면의 기억도 최근 것이 위에 있어요.\n- 턴마다 드는 비용을 조금 줄였어요. (업데이트 뒤 첫 턴은 한 번 평소보다 조금 더 들어요)",
     "published_at": "2026-10-09"
   }
 }
