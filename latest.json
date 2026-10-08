@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 3,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p3.pck",
-    "sha256": "273efd12aa438ee2526b64d6e3300e02df52f55d50b0555e9747910180619be7",
-    "sig": "JrEGjLfLIFHxoTrxd5bJGncNK7c0rYLmncNkqGi1x9IsqhwsoJeOwJJiZZl1XI6BEDbslWd9LCxAGYEAwHJ/ip3ZgjhjMlFq7eVYC7IRBe88sredG/evJYDcsfMwy+rJDwevLAN6LyZ1OGnQS06oOB3xPYD4SW8JMCRwWlrD1Kc/veCgwF+rkgefATUyz2CUNkSf+5IidiZb/3f6h+PjPuFLe7vsSa9gqODx/3sw/iFsIgY0+gaGi/+iDfmqc5ytqsqKYP0Izc8unQf61hDLMTAOuJuRgE28hJw9ER4JSI4kgAWO4TWjhgGRja2IvRTYJEqVKO2XCOWqikJGySzTNQ==",
-    "size": 66004,
-    "notes": "**0.1.4 패치 3**\n- 패치가 적용된 첫 실행에 이렇게 한 번 알려 드려요.\n- 월드팩·프롬프트 변경 내용에 보이던 ** 표시를 정리했어요.",
+    "n": 4,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p4.pck",
+    "sha256": "df4aa58fcce6c92220bae07e936c83115f9cef0a5065dc772b216fa2a9421d4f",
+    "sig": "R7qCgrqY3f8Oa+BHVWZo7kf0cBi4PWPfLRrtpcJ89jrfhgcbrpIZ0ZmlEjgZpLt4YgCxI80r4BeA4q6fFuvkIceZ+A3v0Ho9Zuv7HiFKfQeVmcRV7HojUAlLqPEu0TZWpsFWoAem2uDBjSPw9iKHO4rEw6MG0Oob8ChogSjPSdE+/9xzDDXQjf6Kj3cuoYZmg6lR9xXUmgTt8MYwDc0izeXL8EedscdEx+GssfWuS2t6YJb8XbUYZ0kytUCn94KrVungm4pwv2Fs9JOXAqCTYS5C2DeBfISDbJtuAClg7vZUinJbI5Ej6tsQWJbhN9Db/WOYUpAOfDRS4wz9Sh/r4A==",
+    "size": 120500,
+    "notes": "**0.1.4 패치 4**\n- 페르소나 편집, 프롬프트 편집, 이야기 안 페르소나 수정은 이제 위쪽 [저장]을 눌러야 반영돼요. 고친 채 나가려 하면 저장할지 물어봐요.\n- 프롬프트 내용 칸이 화면 안에 고정되고, 칸 안에서 굴려 읽어요.\n- 글 칸을 손가락으로 끌면 글이 선택되지 않고 화면이 굴러가요. 짧게 누르면 그 자리에 쓰고, 두 번 누르면 단어를 선택해요.",
     "published_at": "2026-10-08"
   }
 }
