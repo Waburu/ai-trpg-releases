@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 6,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p6.pck",
-    "sha256": "10dc2db9b5228b1af107e034a954649e1741da07688357c76dcb760e5d182568",
-    "sig": "g22ggVHndsIasZRQo49AzjxAXz5PyFGuZ4nKkTXnCANQAlqx6nJ4r/okFSyGesm/WQx1kmETZApfxcTbmBENCE3AM2pYTRnH8ZxgwazDC5Pzc/+XLr5HEwcPSy+sUEQzuNLrA1kev4PryK2WkASnxuQTh7+QbjLJfl36v6awji0jfLWE/E0xQ16HlMg43mZ9+msbOe89INo0/11sWrof3Nip7f6RMJIJUR4of4zNI7X9l0G83kRa/w/Y5x35EPN7BVyNLopO2E7EqoByR57dwLI0ukvtIhBT3NrKzXcMwxQOFCjQAqbxjq7g+1ILX9w1W9d5Fo+1iHQ59tfupAyzqg==",
-    "size": 131220,
-    "notes": "**0.1.4 패치 6**\n- 기본 배포 프롬프트(기본 방침·한글 출력 개선·성적 묘사)를 언제든 원본으로 되돌릴 수 있어요. 프롬프트를 열고 [앱 판으로 되돌리기] → [저장].\n- 원본과 달라진 기본 프롬프트는 목록에서 이름 옆에 \"고침\"으로 보여요.\n- 지운 기본 프롬프트는 목록 아래 [앱 프롬프트 다시 넣기]로 다시 넣을 수 있어요.\n- 프롬프트 이름을 바꿔도 저장되지 않던 문제를 고쳤어요.",
+    "n": 7,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p7.pck",
+    "sha256": "c3abd90415c8703bec38f8bacf8075962c449d111bda740a39c87db1fc510bd8",
+    "sig": "3NERKxPEXf/EDGgo8dNUZ7qP7rPVY1qpvsMRU0EK1JcAPa0C7BAEjpea9de/VklaFUYPLRq7On8+GSvo3Gm1YK59+UoNLadDRzQ50vqbIDgl88DzZGA7Izt1198u7JCKUMv30NqyFXlE9Kjk8aaV634lNCBhE6mm6n+3jb17UuWa/h36hVMOreTgEy62AlTMzLjYU1DCYVaXM5wv4BuBxX9sJ/dvphGv/+kmjOx9uBKDLcHIZofgB/Ubd5CbaUNa8CeYt6d12We54Rs/yju9qgx4eQrwwrhvkRJhb6athSneK8cVqDMTctmiiaC7tD4+ST31E9SshkXLTnpSbdDemg==",
+    "size": 269160,
+    "notes": "**0.1.4 패치 7**\n- 리롤해도 전에 받은 답이 사라지지 않아요. 마지막 턴 아래 [‹ 1/2 ›]로 답을 넘겨 보고 마음에 드는 걸 고르세요. 체력·소지품·소지금·장소도 고른 답에 맞춰 바뀌어요. 다음 입력을 보내면 고른 답으로 정해져요.\n- 리롤이 실패하거나 중지하면 보던 답으로 돌아가요.\n- 턴 사이에 가로줄이 생겼고, 내 입력은 왼쪽 선과 이름만 파란색으로 보여요.\n- 서술 글자를 한 단계 어둡게 해서 대사가 더 잘 보여요. (서술 색을 직접 바꿨다면 그대로예요)\n- 속삭임은 작은 글씨로, 외침이나 큰 소리는 큰 글씨로 보여요.\n- 입력창의 [*]를 눌러도 자판이 내려갔다 올라오지 않아요.",
     "published_at": "2026-10-08"
   }
 }
