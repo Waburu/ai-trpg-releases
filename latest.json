@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 7,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p7.pck",
-    "sha256": "c3abd90415c8703bec38f8bacf8075962c449d111bda740a39c87db1fc510bd8",
-    "sig": "3NERKxPEXf/EDGgo8dNUZ7qP7rPVY1qpvsMRU0EK1JcAPa0C7BAEjpea9de/VklaFUYPLRq7On8+GSvo3Gm1YK59+UoNLadDRzQ50vqbIDgl88DzZGA7Izt1198u7JCKUMv30NqyFXlE9Kjk8aaV634lNCBhE6mm6n+3jb17UuWa/h36hVMOreTgEy62AlTMzLjYU1DCYVaXM5wv4BuBxX9sJ/dvphGv/+kmjOx9uBKDLcHIZofgB/Ubd5CbaUNa8CeYt6d12We54Rs/yju9qgx4eQrwwrhvkRJhb6athSneK8cVqDMTctmiiaC7tD4+ST31E9SshkXLTnpSbdDemg==",
-    "size": 269160,
-    "notes": "**0.1.4 패치 7**\n- 리롤해도 전에 받은 답이 사라지지 않아요. 마지막 턴 아래 [‹ 1/2 ›]로 답을 넘겨 보고 마음에 드는 걸 고르세요. 체력·소지품·소지금·장소도 고른 답에 맞춰 바뀌어요. 다음 입력을 보내면 고른 답으로 정해져요.\n- 리롤이 실패하거나 중지하면 보던 답으로 돌아가요.\n- 턴 사이에 가로줄이 생겼고, 내 입력은 왼쪽 선과 이름만 파란색으로 보여요.\n- 서술 글자를 한 단계 어둡게 해서 대사가 더 잘 보여요. (서술 색을 직접 바꿨다면 그대로예요)\n- 속삭임은 작은 글씨로, 외침이나 큰 소리는 큰 글씨로 보여요.\n- 입력창의 [*]를 눌러도 자판이 내려갔다 올라오지 않아요.",
-    "published_at": "2026-10-08"
+    "n": 8,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p8.pck",
+    "sha256": "4a8f61c113129f8f4048d56a52ac1d61bea4fd3c6c792f33c86c0eccd3d6b4e2",
+    "sig": "28ZQrcSVQc4WAmz0McYuDx4b8s7DWspkOe67NTgERxdzVlEEu25+fCGpLtaTLMHMaOdzeGQ3tQo4XHkZp526q10ZxeYK19/o4Thcd/Xch7DXEoSqGJ1i8l57XBCM7xRMasOl27fLY5N3wN12LufX3hza3PpBmZtDYUXZ8UhvkC31uyKBeeQrxxdySBJD0oUc7Zx3NNQftx86cZQQz6vznpxSRS8j4WDKyoc7j6oMSSuek1YiW/K7xlTm1jIVmfywLZf0ZLtToobONEJirFHNp6NPVeb/cGSxwBVUn+MkY+fSNFBQeLOIh6jbqZWY/J/U0xW4tA5a7NwcsugIcnpcOw==",
+    "size": 289932,
+    "notes": "**0.1.4 패치 8**\n- 설정 › 개발 로그의 [분석 꾸러미 저장]이 휴대폰에서 0KB 빈 파일로 저장되던 문제를 고쳤어요.",
+    "published_at": "2026-10-09"
   }
 }
