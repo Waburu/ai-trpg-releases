@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 8,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p8.pck",
-    "sha256": "4a8f61c113129f8f4048d56a52ac1d61bea4fd3c6c792f33c86c0eccd3d6b4e2",
-    "sig": "28ZQrcSVQc4WAmz0McYuDx4b8s7DWspkOe67NTgERxdzVlEEu25+fCGpLtaTLMHMaOdzeGQ3tQo4XHkZp526q10ZxeYK19/o4Thcd/Xch7DXEoSqGJ1i8l57XBCM7xRMasOl27fLY5N3wN12LufX3hza3PpBmZtDYUXZ8UhvkC31uyKBeeQrxxdySBJD0oUc7Zx3NNQftx86cZQQz6vznpxSRS8j4WDKyoc7j6oMSSuek1YiW/K7xlTm1jIVmfywLZf0ZLtToobONEJirFHNp6NPVeb/cGSxwBVUn+MkY+fSNFBQeLOIh6jbqZWY/J/U0xW4tA5a7NwcsugIcnpcOw==",
-    "size": 289932,
-    "notes": "**0.1.4 패치 8**\n- 설정 › 개발 로그의 [분석 꾸러미 저장]이 휴대폰에서 0KB 빈 파일로 저장되던 문제를 고쳤어요.",
+    "n": 9,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p9.pck",
+    "sha256": "ecc2b350a79e94357728018dedf43d891bb2b1c5bfbcfeac01b23ae56fc31232",
+    "sig": "JtdO+mFBPUbgrjBJZ62nbntW0b/i7rZ5qDzGKGT+qEGdmDnMpr9YxJweEvzBsZYFdmkeAbivBP9qwufHSlntMUdcKRXU5NBcePDtsXADfk3vIQR9yXjflxQalsDsPFqSbw8W5yKWl5vgJOWN4qq3jGd/3xSGXxih+2BBUKrFmNjsNNZdoUuL7EXUcU/JryFhxJws26XsM2bAi/nhWooHu98ExHMNaA/uNkiBzVs8Q9jB29elci0vyC+sAQ5gcBcKO+wNHfXAg5IvzXjP27kLjAgBveEGlTIaM90YI4wrQDMnINw21dCFrBYJE8mBAhB8dsK19j14jCeF5+2Q+0Bwtg==",
+    "size": 290636,
+    "notes": "**0.1.4 패치 9**\n- 페르소나 설명처럼 여러 줄 글 칸에서, 누른 자리부터 글자가 잘 지워져요.\n- 자판을 닫은 뒤 글 칸을 다시 누르면 자판이 다시 열려요.",
     "published_at": "2026-10-09"
   }
 }
