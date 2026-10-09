@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 19,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p19.pck",
-    "sha256": "fa390bf1a38c8d8c94312dfa1961a2265bceab1b44eba02977d20527d3be2e05",
-    "sig": "csHSK+KlF0sUVLelrZqzl5/6CSv39AXBSQ1KBuCl8iiA4h5co/0F3mwSAd4dJAFdAhV83ur/irGar6ScLU+eRaoGEO1x8sR6n8qshS0ze6LpqclddjV+nRhFvx/p15E/7wFVJJAQM6MtC+ltvOBBSipEwX3mjxuv1Do2ZjGWdc/qiAabFc9hw2ielfqJfKDf7StvyD1+/OfmtfiUoSXp4w2mAmQldg563G5o43EHf3B/n8WImdWjbGEx5M1xS5x72AedhrAvsYbTxuZysUTBX03cZ5xsKziGEnc83WrSogp7h63D2NVbdqrvbW3dOnGV4tuH0G7BbD8X5BRrZEG7PQ==",
-    "size": 1224668,
-    "notes": "**0.1.4 패치 19**\n- 일상의 만남: 월드에 만남 목록이 있으면 지금 있는 곳(길·숲, 마을, 도시, 항구·배)에 맞는 만남 둘을 정한 간격마다 뽑아 AI 에게 사건 후보로 줘요. 괴물이 나타나고 해결하는 일만 되풀이되지 않게, 사람을 만나고 말을 섞는 장면이 늘어요.\n- 설정 › 이벤트에 \"일상의 만남 뽑기\" 간격(끔 · 매 턴 · 3턴 · 5턴 · 10턴, 기본 5턴)이 생겼어요.\n- AI 가 위협 사건을 연달아 고르지 않도록 안내를 더했어요.",
+    "n": 20,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p20.pck",
+    "sha256": "69a58e0b8db76505593776f3329796a0f4447d71f210e16e2f3c2e48d2055ce0",
+    "sig": "fQlwr7H4mjU/nlnglQZlq65XBXSnCrxeepUoWJ9R62pHqE+NWYXjgrXF2tqiIXmnc74Pv4LvC897ntkmrVjWfIXWqGc4lTD1+p7fv8HwGYGGHyW3OwDSo+EgUxTUGnL96gFNqDzWA1N0o7Dl01zQD7lGDvOoiNeJDz5Ou6vh/3h4D6ZLPOIbJuNuciJXNOYI5ZeoAPyyKHwNAUAMrISORziIzvJq+kELyyGcG/lCm+k+LGyhX81bGETXU9JWRnLxFpM57b/peMJOgIeFgc7CZ4S+dfGzyEjIVkBUHDtAQsgIvUSd/SGInBZa1D2vl+1VvSq2tyP1pNUQ1HGeEDhA+Q==",
+    "size": 1224412,
+    "notes": "**0.1.4 패치 20**\n- 설정 › 이벤트의 \"일상의 만남\" 간격을 타이핑 줄과 같은 선택 줄로 바꿨어요.",
     "published_at": "2026-10-09"
   }
 }
