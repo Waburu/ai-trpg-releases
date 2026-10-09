@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 16,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p16.pck",
-    "sha256": "de00604ce4a23adb028d605692ff1bf61353587f059e3d44a1b5c91aa77d5554",
-    "sig": "5NOHL4Il3y+f3bzz3yB0lfJL0qLJsUm2azkSLji4sVuRzcvQ65dUC+vNh94Q+naeXfsD9qWeoSkeQOklU8uIziezyPJNUUGCwH1ctSj8e0PiwwUc8FnnTKOGFc+JAwhTxaer1eJLNSP9evRTHr6ijAWn09WUD/F0qed05sqt1rHL5NjCv/3hrzZ/q830KO+UjYo15pxZY9sAgnMfLY6wqHe6tLS6WnFN/kUMUnUCW+0xF5BNgUd0mUl0XriaX55Zc1MuJwK/bqlS3PtcrOmgQHncfLfLDBMdy88y643Z5Hr89Hijf3XHCxVwji/v4L5ADivTLW+NHQwC9LnG7b31xg==",
-    "size": 1184668,
-    "notes": "**0.1.4 패치 16**\n- 판정 방식을 고를 수 있어요. 이야기 메뉴 › 판정에서 엄격함(오퍼스가 판단), 정밀함(소넷이 판단), 합리적(하이쿠가 거르고 소넷이 판단) 중 하나를 고르세요. 기본은 합리적이에요.\n- 정밀함·합리적에서는 판정 카드가 서술 전에 떠서, 물러서거나 중지해도 서술 비용이 들지 않아요. 판정이 있는 턴은 비용이 줄고, 판정이 없는 턴은 시작이 1초쯤 늦어요.",
+    "n": 17,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p17.pck",
+    "sha256": "20ac470b6a943c4dbec35fabfb41c6023b33cc282b1fc2f02354b3b94e7d5f41",
+    "sig": "mJ0NhSsQQESIVhtz56fWgt+WR1thrud0V9OuKHdKquEr7XiZqKFtPcvXQDDjTucUHqDE2q9qWQqczK3HOizXbyrnuAXACEih1v9nwTx8ashdgxRb1hSC8HsdlxS98P0lp5kBs3u2DUaONa+A+zMI7nt2COkVu4l4a0s3bBcaukfmwraAQ5cCCyxmmtr058PvuupNctWN4uWAfyxa9VOol33E9R/SInD53iZPgxWEHwFUlBkTakRHvSIzf/N/PNg/f3sQgWQfCTDfy4bt6yV2mFFoRqRA1IinWBfGK1Sv/3/nLdYHom+WiUrAh52taxkX9oEjJ6kOd3V+A9wQ2UrBHw==",
+    "size": 1186284,
+    "notes": "**0.1.4 패치 17**\n- 서술에 나오는 지명을 「회른」처럼 표시해서 사람 이름이나 다른 말과 구분하기 쉬워요.\n- 이어 하던 이야기는 업데이트 뒤 첫 턴만 한 번 평소보다 조금 더 들어요.",
     "published_at": "2026-10-09"
   }
 }
