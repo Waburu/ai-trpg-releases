@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 12,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p12.pck",
-    "sha256": "8deca741a674b784bac9990a6acd82dfe08e1f0c44f83b556f76f613047c9a3d",
-    "sig": "bvQ3kSP55lJtRiO7AjaWRcZUXQQ19TP7BMpBgMnIDq0pDERL75Xawdoh3Rp9+QA5ItI804mWUrrWvACWXPAaX6te6IcbxCOpuKE0qOswnCcBwN7f7PFgEQsJ9jstDkF/5HCvUNb9pkUZGYt4Xxbcyk3mtgpbkS1wRxJ/t2DzKGxv+Ae2yeh1G/ORq8OLJ6j3+O46eCHPnejaf9VjAIxGa68jGPpqV2+OKbqmAwkmDuSVDB7CWHnH4Qwf8nd1n1ZZns5tY1IFxQ/BPvNEX5Jekidmc8PJouiEUCiw5G9G6fqKyEMGOcpbVY4CB3/rjhe19GPrVk8A/DO66u3I1LbiXw==",
-    "size": 421628,
-    "notes": "**0.1.4 패치 12**\n- 상황 서랍을 손가락으로 끌어 스크롤할 수 있어요. 인물이 많아도 아래까지 내려 볼 수 있고, 목록 끝에 여백을 두었어요.\n- 기억은 최신이 앞에 와요. 기억 탭 1쪽 맨 위가 가장 최근이고, 인물 화면의 기억도 최근 것이 위에 있어요.\n- 턴마다 드는 비용을 조금 줄였어요. (업데이트 뒤 첫 턴은 한 번 평소보다 조금 더 들어요)",
+    "n": 13,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p13.pck",
+    "sha256": "c88436bd3c74966eb54c020aab46ffc5c298beccf1cd82d632ca178b6243122c",
+    "sig": "438sqCAB/8iK5glh62K67DskPxR7zHoHReOoTl6RCK6uBXlzJy+AW7LuG4E2TucgItQtvkeh1npyjdKJ451QnDE5tVSLEbvettcBQvs+dcYtMpNZAGXU7p5d9M9tXjCfU7PZziEfXASKFIumldHDct5GRbRLRnt70BjAbHS/eskKYwu6qUbehVt3NUltMa/gdBHuiEz/hE6GH825SeAv1RdjDnnG63PUfUh/3kbo0UOE7VFort/QYWFW1SS9ogdt/LZC054a84se8qzjNivBIJ5Lsxydrm27jluwMshtS+XeQGCRC14JwLzpeimj53qC8mrRQX5EabQmNfaVt1ohUw==",
+    "size": 428684,
+    "notes": "**0.1.4 패치 13**\n- 새 이야기를 시작하면 세계의 주요 인물 가운데 다섯 명이 무작위로 첫 이야기에 준비돼요. 같은 도입부로 시작해도 매번 다른 인물과 전개를 만날 수 있어요.\n- 업데이트 뒤 첫 턴은 한 번 평소보다 조금 더 들어요.",
     "published_at": "2026-10-09"
   }
 }
