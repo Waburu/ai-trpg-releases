@@ -12,12 +12,12 @@
       "id": "azelan",
       "name": "아젤란",
       "description": "악마에게 침략당한 다크 판타지 세계관",
-      "version": "10.09",
-      "rev": 1791517035,
-      "size": 705634,
+      "version": "10.09.2",
+      "rev": 1791538729,
+      "size": 708516,
       "characters": 86,
-      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/47e76ad81c518a5a28e41dd0c1ea0c98c4c37b9e/packs/azelan.json",
-      "notes": "- 등장인물이 더 살아 있어요. 사람마다 기질과 말투, 유머가 다르고, 주인공에게 반응만 하지 않고 흥정·뒷말·부탁 같은 제 볼일을 봐요. 먹고, 졸고, 탈이 나는 몸의 사정도 행동에 드러나요.\n- 인물이 처지와 직업에 맞게 말해요. 뱃사람이나 병사는 욕도 하고, 아는 사이끼리는 반말을 써요.\n- 즉석에서 생기는 인물의 나이와 성별이 역할에 매이지 않아요. 촌장이 젊을 수도, 심부름꾼이 늙었을 수도 있어요.\n- 이야기가 장르의 뻔한 전개를 덜 따라가요. 아젤란의 톤에서 특정 작품풍 표현을 덜어냈어요.",
+      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/68ef0ff0ef1c16d12595df2edd92faf8d9f506f6/packs/azelan.json",
+      "notes": "- 도입부를 다시 썼어요. 항해의 끝과 모닥불은 장면으로 고쳐 쓰고, 마지막에 지금 할 수 있는 일을 보여 줘요.\n- 새 도입부 \"길드 게시판\": 비 오는 길 끝에 모험가 길드 지부의 술집으로 들어서는 장면이에요.",
       "min_app": "0.1.4"
     }
   ],
