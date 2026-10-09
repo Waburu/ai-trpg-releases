@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 20,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p20.pck",
-    "sha256": "69a58e0b8db76505593776f3329796a0f4447d71f210e16e2f3c2e48d2055ce0",
-    "sig": "fQlwr7H4mjU/nlnglQZlq65XBXSnCrxeepUoWJ9R62pHqE+NWYXjgrXF2tqiIXmnc74Pv4LvC897ntkmrVjWfIXWqGc4lTD1+p7fv8HwGYGGHyW3OwDSo+EgUxTUGnL96gFNqDzWA1N0o7Dl01zQD7lGDvOoiNeJDz5Ou6vh/3h4D6ZLPOIbJuNuciJXNOYI5ZeoAPyyKHwNAUAMrISORziIzvJq+kELyyGcG/lCm+k+LGyhX81bGETXU9JWRnLxFpM57b/peMJOgIeFgc7CZ4S+dfGzyEjIVkBUHDtAQsgIvUSd/SGInBZa1D2vl+1VvSq2tyP1pNUQ1HGeEDhA+Q==",
-    "size": 1224412,
-    "notes": "**0.1.4 패치 20**\n- 설정 › 이벤트의 \"일상의 만남\" 간격을 타이핑 줄과 같은 선택 줄로 바꿨어요.",
+    "n": 21,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p21.pck",
+    "sha256": "b8d3cd63843f6cb7752574da9654c9383fed7a2f6835be617daee21e5a7f37f6",
+    "sig": "rVmKL4P1uFkTR7LNSBXzokn4mSIWFrJ0sXb8cM0/WnDGw0MuzOJyHDlGX/Gt48C2/IbH4Iq3Zd51a6yqQvA938vzvQA02r2Ik7GfkeAAyZ4xmGsnb11AlZs1pLTxVfR7U8LKGUAAh49Fa+XNYoVxdeKS2zVJCwTINDZOQHhAH9q9ivZbcHpRC9EnUM9a0UWs009qUzEm6jyf61Au6QVdwP5xAzEdKbrmsZuTq9llMFJKtF1h+f3f5EKDJ0ahYTpyRy9CU5M8lgYlRdq6787CZ47C9r44MCoUuUGyJZox+NyES3eT5RUDyVKXtoiwXCb3zNarcSCvv5k3WXQQkG/qMQ==",
+    "size": 1233284,
+    "notes": "**0.1.4 패치 21**\n- 날씨가 이야기 속 시간을 따라 움직여요. 날이 바뀌면 계절과 지역(들·산·사막·바다, 북부의 겨울)에 맞춰 그날의 날씨를 정하고, 하루 안에서 아침·낮·저녁·밤으로 흘러가요. 맑은 날이 며칠 이어지기도, 비 뒤에 흐린 날이 오기도 해요.\n- 뇌우, 폭우, 폭설, 우박, 바다의 폭풍, 사막의 모래폭풍 같은 거친 날씨도 가끔 와요. 검은 땅과 북부 왕국에선 드물게 기이한 날씨가 떠요.\n- AI 는 바뀐 날씨를 서술에 반영하고, 이야기 자체가 날씨를 바꿀 때(마법 폭풍 등)는 그쪽을 따라요.",
     "published_at": "2026-10-09"
   }
 }
