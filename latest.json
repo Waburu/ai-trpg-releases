@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 21,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p21.pck",
-    "sha256": "b8d3cd63843f6cb7752574da9654c9383fed7a2f6835be617daee21e5a7f37f6",
-    "sig": "rVmKL4P1uFkTR7LNSBXzokn4mSIWFrJ0sXb8cM0/WnDGw0MuzOJyHDlGX/Gt48C2/IbH4Iq3Zd51a6yqQvA938vzvQA02r2Ik7GfkeAAyZ4xmGsnb11AlZs1pLTxVfR7U8LKGUAAh49Fa+XNYoVxdeKS2zVJCwTINDZOQHhAH9q9ivZbcHpRC9EnUM9a0UWs009qUzEm6jyf61Au6QVdwP5xAzEdKbrmsZuTq9llMFJKtF1h+f3f5EKDJ0ahYTpyRy9CU5M8lgYlRdq6787CZ47C9r44MCoUuUGyJZox+NyES3eT5RUDyVKXtoiwXCb3zNarcSCvv5k3WXQQkG/qMQ==",
-    "size": 1233284,
-    "notes": "**0.1.4 패치 21**\n- 날씨가 이야기 속 시간을 따라 움직여요. 날이 바뀌면 계절과 지역(들·산·사막·바다, 북부의 겨울)에 맞춰 그날의 날씨를 정하고, 하루 안에서 아침·낮·저녁·밤으로 흘러가요. 맑은 날이 며칠 이어지기도, 비 뒤에 흐린 날이 오기도 해요.\n- 뇌우, 폭우, 폭설, 우박, 바다의 폭풍, 사막의 모래폭풍 같은 거친 날씨도 가끔 와요. 검은 땅과 북부 왕국에선 드물게 기이한 날씨가 떠요.\n- AI 는 바뀐 날씨를 서술에 반영하고, 이야기 자체가 날씨를 바꿀 때(마법 폭풍 등)는 그쪽을 따라요.",
-    "published_at": "2026-10-09"
+    "n": 22,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p22.pck",
+    "sha256": "ff137a564d03a642834c827db15c6e96719a88c9cd7c2a34401e1b4ad305bf7b",
+    "sig": "jQf6d2D/dIsnP8nzh7y/dzfG8oN74I7TA97PcKJb8jwxID4b3BiC9ri75sOU3qz+jCE4R0xLIZTZMxJGPEWReFqn2CZdKfC2AnmeYj3MNlV1CM2GqXRp6KyB53UMDCsoVd4DaZXi1okVYgvwxDPJM5B+Jo5uhqGUM0mQyXsN66O3V8h7D81iHteQ5SB4eEiNyOy+XIyqOUP+adj+2hyQi7D3Bq0lMlsW/W+W5M6uUjLjfbBLtswgAP2WUTn04DcncJHGEZjmucRXxlCxvu6oON0UZrAe+jn3Rb7TfourIkNy9XkTUYUezSvxozdk+ZoqzF9jHxcE28B8qAuhqZWfTQ==",
+    "size": 1275464,
+    "notes": "기억이 사실 줄로 바뀝니다. 매 턴 상황 정리가 \"누가 무엇을 했다\" 한 줄을 남기고, 10턴이 모이면 그 줄들과 원문으로 짧은 기록(6~10줄)을 만듭니다. 기억 탭의 \"진행 중\"에는 턴별 줄이 보입니다. 기억 갱신 호출이 없어져 턴마다 비용이 조금 줍니다.\n\n판정은 설정의 판정 방식이 정합니다. 정밀함·합리적에서는 서술자가 굴리지 않고 앱이 서술 전에 정한 결과만 반영합니다. 주문·의식은 늘 판정 후보이고, 상대가 캐묻는 중의 연기·둘러대기는 속임수 판정입니다. 거르기 모델이 Haiku 5.5로 바뀌어 더 자주 잡고 값은 1/10입니다.\n\n요약·상황 정리 모델 기본값이 Haiku 5.5로 바뀝니다. Haiku 4.5로 저장된 설정은 열 때 자동으로 옮깁니다.\n\n인물 카드: 같은 역할의 단역은 한 카드로 합치고, 죽은 인물은 카드를 닫습니다. 하는 일·평가 칸이 문장 중간에 잘리지 않습니다. 상황 정리가 실패한 턴은 다음 턴에 함께 정리합니다. 이름 없는 아이템은 지웁니다.\n\n날씨가 조금 더 자주 바뀌고(다음 날 같은 날씨 45%), 판정 뒤 서술이 비면 한 번 자동으로 다시 씁니다. 주요 인물 재추첨을 기록 정리 턴에 맞춰 캐시 비용을 줄였습니다.",
+    "published_at": "2026-10-10"
   }
 }
