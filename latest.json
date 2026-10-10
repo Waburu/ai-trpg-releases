@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 23,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p23.pck",
-    "sha256": "8d4791f5905acaa158a7016fafb172d1e423cc2c411d2b6bbebd010167ec8ec9",
-    "sig": "JyXtIDMyTB94aQxXYNUlaEKoLpwKUeG9XeodYaqzGwL5SxFJwENynbFuiaMz8tJzzOiuvCvUkvwjO5tjB/gAYyTUt8YXdMfq28p9kTslRteKyaE9lj+kkqli1Ol1tuGekiz1ocwJfO4iQpKGgriRgRkeAnltCTpM4otTPvjNSA5rJsqxaSUdetM6AaBYqkPBDMfXebmhAnjDPBvuT1iCKFuGg3OVvkeLgOKLractYG1hzZSVYcdh6LouXXQbxngMY5YfUXxdX9GEe7460hx6pMbYBt67N9aKNGMo/61e35GIfg94Bn8v5RlbwopiVDeLeU7pPlRLkkccrfuHTw5tpw==",
-    "size": 1280408,
-    "notes": "아젤란 10.11 판\n- 신들 정리: 열두 존재에 주는 힘(불·물·쇠·나무·흙·변화·강화·지식)과 먹는 것을 정하고, 탐욕의 존재 쥬엘(쥐는 것) 추가. 이름 변경: 움토르그→타이칼, 오뮈르→슬라나, 카안무르→훈누, 아켄타르→아문, 흐울레크→뮬. 이브사엘은 마녀의 후원자.\n- 세계관 글에 신 목록과 시대 줄(화약·인쇄·판금·원양 항해·기사도) 추가, 로어와 겹치던 세부는 로어로 옮김.\n- 로어 정리: 나라별 풍습·여정·아종·유물 항목을 이 세계만의 내용으로 줄임(AI가 이미 아는 일반 상식 삭제). 드래곤은 마수 항목에 합침.\n- 지도: 베렌차 남쪽 끝 아래로 바다가 이어짐(서해–메소스 해). 피오르·암초섬, 산기슭 구릉, 숲 빈터, 강가 습지와 밭, 호수 4곳, 포르텔라·이솔라 네라 앞 얕은 바다. 칼리프국에 테오파니아, 베렌차 앞바다에 성유물의 섬 추가.\n- 지명 변경: 서쪽·동쪽 고개 요새→베스트파스·오스트파스, 서해안 항구→그라우하펜, 원형 투기장→아레나 베키아, 동굴 수도원→페체라 수도원, 성스러운 호수→아리운 누르, 옛 왕도→스발가르드(옛 왕국 이름 노르드리크). 강: 에르츠바흐, 체르나.\n- 앱: 서술 AI에게 세계관의 신 목록은 요약이니 신을 등장시키기 전에 로어를 찾아보라는 안내 한 줄.",
+    "n": 24,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p24.pck",
+    "sha256": "3fd38fa18d93e38776d7e9e646b97eaa745aa86562608e7d54215dacf1bc40b6",
+    "sig": "0beepOpVgIokRLi1hDzN2zcH/gsEX4eAW6a16UNUedj3sY2fAmrVTXLv0hfcEhzh56sWEDcNDWXAY7ZoVGEBs2EOQz84KnN/lzt5aX99nfB/jnP1NmCG82SvtItOSYw7I9iLrkHcmySi3cUrnk0bDsszpJeydUFBofOHi33mvy5Z66sDJmCdVvLFlCrIzgzsAbeRZm4dRGJx/y+08rNUG5btIVNGp1ZnJ7cviv3f9tkB3xBHyfNuVyEN+FVTQP4ge7vZUa3LfpalwgnbZ952JSCpU+Fbbo7Zj7JIfjcCD7r5tC4Mr5D7GUvnjX1nfoqa+aLZp46fLUFlVlIiGr86tQ==",
+    "size": 1280088,
+    "notes": "아젤란 10.11.3\n- 서술 품질 회복: 인물 시트가 메인 프롬프트 뒤에 놓여 대사가 짧은 번역체로 흐르던 문제를 되돌림(프롬프트가 다시 대화 바로 앞).\n- 인물 85명 손질: 말투를 길이 지시 대신 말씨·어휘·버릇으로 다시 쓰고, 성격을 어느 장면에서나 쓸 수 있는 행동으로 다듬음. 드미트리는 시적인 비유를 쓰는 기병으로, 카라샤는 강자에게 승복한 거인으로, 일바는 눈을 가린 젊은 균열의 사제로 바뀜. 뱃사공 시그네 삭제.\n- 타이칼(부수는 소리)의 징후에서 \"빨리 늙음\" 삭제. 울판의 능력에 하늘의 흐름을 읽고 가축·전사를 축복하는 샤먼의 힘 추가.",
     "published_at": "2026-10-11"
   }
 }
