@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 28,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p28.pck",
-    "sha256": "0a70fc336b1b9ad9f32ecfa209f5544ac2b8b5bb0b9cf1a3e88578cd51a25b9c",
-    "sig": "a1hE3w9ipkwNr2g9QyxOwLhDXxd2Vvt3AhX6LfEVqjk4qtoe4Q4aLCgKbGPDDmNIi/SlOKVXtIxGh21xa+kZ9cpw/8lW1JvTzD4anqbOAj5MPy64mmiAlX75/vnFgjEy7WiD6UyWwOIDK22IuvYjVnwT6Qr3Jroa7MCO7ENvvQDZK9PAV8AvV2SMsf+AfegUpbW5pkEZuA1+b5BuTGYk3a17GaCVFp2Z4NjVET/R3q78YU2ryoL0I2dBK85i9X0rpPhCkv8MRNPr6a/g9XzaburbbOTNNfmFZjblkdxmPaNJcfo76bO6+a0NoNGXrJldcialg7KVCaTL9wwbFjFabQ==",
-    "size": 1441160,
-    "notes": "세계 설정 손질\n- 아스트라 존재의 징후를 접촉·징후·현상으로 나눠 정리했습니다. 문 두드리는 것의 접촉·징후·현상을 적었고, 다른 존재의 징후가 없는 오염은 모두 그것의 몫입니다. 징후는 깊이 관여했을 때의 모습이고 보통은 약하게만 드러납니다.\n- 포르텔라가 유흥의 도시가 됐습니다. 밤이면 도시 전체가 술·도박·유곽·극장으로 불을 밝히고, 누구나 가면을 쓰며 가면 아래를 묻지 않습니다.\n- 하기아 테라 대경기장 옆에 제욱시포스 대욕장이 생겼습니다. 탕에 몸을 담근 채 시중을 받으며 결투 노예와 챔피언의 싸움에 내기를 겁니다.\n- 창작 도입부 선택지의 믿음 단계와 몇몇 선택지를 새 징후에 맞췄고, 여성 인물 시트의 체격 줄에 두드러진 점을 적었습니다. 마르파는 35세가 됐습니다.\n- 창작 도입부의 페르소나 외형에 체격의 두드러진 점 하나를 적습니다(보통이면 안 씀).",
-    "published_at": "2026-10-11"
+    "n": 29,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p29.pck",
+    "sha256": "9a3bcf56a14d578173e7c6180f9f289fbf739d0a3b413265d870ee26ecf1610e",
+    "sig": "CcI4MsMqGNHovbDR8bhB1cu3wifwzG+IQARMJLQYIlXMhDsgblwm07srfTif07vleDiXneooIpzPGf6MwtAxTmpOkAVZAvF2G6gqiLzFS9GbI5aCHDSkly6+4sRC9MEhonX6rADD6YmKeadJ4qh3LlzNC2KZY60K5LsSmwoDfNUwJiUivZRQHyXGf8sHi367+KolX7Qz7HI3dfeEWVyX6w1o1bECdZksfxptjbgPrqItZ9EbB/V8EZAQbSwMe0od9eywXjHIjoxkNskyNhYbXYFgUFtTh72wdt66t9ZI6Ot5LG88QultU+AvVxD3H7nu4AwVcBC6I9VpkibbwKv4Ow==",
+    "size": 1442792,
+    "notes": "인물 카드 고침\n- 은빛 서약처럼 일행 이름을 함께 가진 인물들의 시트가 한 사람(레온)으로 합쳐지고 카드 외모가 모두 레온이 되던 것을 고쳤습니다. 이미 그렇게 된 이야기도 다시 열면 제 이름으로 돌아오고, 카드 외모는 다음 턴에 제 시트에서 다시 채워집니다.\n- 헤나 시트 손질.",
+    "published_at": "2026-10-12"
   }
 }
