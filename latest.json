@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 26,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p26.pck",
-    "sha256": "cc7611c381bf08e5c9af96d8882e31f8f9649ff7f6958e35b4e69c51fb26f00e",
-    "sig": "ysqFr3F+PGkYJCb40initZq9mcw7EsqotRvrCrfScO0a0zFpHAiBBRRphdjyXGPY+feFn5as5w9b3zBPtQONqZC5UoxzoIwFa3aR0Nv7WdMJmAxP2TUAwhI7xBkjjoCi3s5QUryn1r05KwpU6Ro1YNl05kqrshfWAAY1S5ldVq+4WoZMjjP7CvBnPHj9/AS3OAdf6Q+fwg5P/m8RcI+2d69GNBdJvmsbn5wIL1+eXEEq6MdjZ2dMcCfTmwD9GtkwQeRzUnue0GkiFimSk1E08PShVMHHknUay8bn2+nLhaDLK3DHxgHaEZmnPLFwLyp8H6FAmw30zfbSO10ceTfM9w==",
-    "size": 1444088,
-    "notes": "- 창작 도입부: 새 이야기의 도입부 목록 맨 앞에 생겼습니다. 출생 지역 → 부모 → 어린 시절 → 청년 시절 → 신앙 → 떠나는 이유를 고르고 이름·성별·나이를 정하면 AI가 페르소나와 도입부를 써 줍니다. 확인 화면에서 지나온 단계를 눌러 바꾸거나 글을 고칠 수 있고, 입은 옷은 장비로 들어갑니다.\n- 새 이야기를 시작할 때 연출 설정(페르소나 조종·시점·분량·영구 죽음)과 애드온 설정 단계를 거칩니다. 이야기 메뉴의 연출·애드온 패널과 같은 조작이고, 처음 값은 지난번에 고른 값입니다. 페르소나 저장은 확인 화면의 스위치로 바뀌었습니다.\n- 서술이 어둡고 불편한 전개를 피하거나 미루지 않게 손질했습니다. 성적 묘사 애드온은 장면을 여러 턴에 걸쳐 진행하고 건너뛰거나 가리지 않습니다.\n- 모험가 파티: 아젤란에 일행 셋이 생겼습니다. 새벽의 검(초보, 아스터·줄리아·세실리아), 브란 조(노련, 브란·카타·로렌초), 은빛 서약(이름난 성기사 파티, 레온·이자벨라·헤나). 일행은 이야기에 함께 등장하고, 인물 화면의 동료 스위치 아래에 같은 일행이 보입니다. 일행에 들어가면 함께 다닐 구성원이 모두 동료 제안으로 뜹니다.\n- 새 인물: 줄리아, 세실리아, 레온, 이자벨라, 헤나, 그리고 검은 병으로 죽었다 일어난 구울 클로에(드라비아). 세계관에 성기사 항목 추가.\n- 인물 손질: 아스터(산골 출신 용사 지망생), 브란(음흉한 노장), 드미트리(약탈로 돌아선 기병), 티토(가짜 백작가 후계자 행세), 야스민(뒷골목 문서 위조꾼), 세헤르(춤으로 마법을 일으키는 무희), 레일라(과거 추가). 팩 10.11.10",
+    "n": 27,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p27.pck",
+    "sha256": "abf309c1724a88ec24df986f37bde782486c1b01d0b2d1326debac3f37da0045",
+    "sig": "LBolQH/3bJtKxwOUu54XRhbDgBAYuyfv92ZCiySkEHLVOuOMr2E932HFqRi/OW6Hk9rZo9cXQ4Q1JAhQNGSTgJKqQNQYtmqCrckz9xZCsBxYgp98CLSDeR79siIGGCrdb7Cz2jAWJ0tfd4UjWf3ICwP6JqJvTcxouIuP6sbBDDD46LxWdcCMnB78WWHZY8M/XYVcu4noTB5i15hWW7i/ZL+r2eTZ1mo8z121J3rVGYDtaq2ROl5Vdxa2233yrMk8aehNjhQz47QLMs8jJ11r7YY7PRTUqN3k8U4I7o6xweB/BWK+ck9d4G/YSWl25b2FBekJgDERjxhhLPd5+3ClZQ==",
+    "size": 1437080,
+    "notes": "창작 도입부 손질\n- 선택지를 틀만 남기고 다시 썼습니다. 단계 이름은 태어난 곳 · 부모 · 어린 시절 · 젊은 시절 · 믿음 · 떠난 까닭, 물음은 존댓말, 설명은 한두 문장. 평범한 삶의 선택지가 늘고 신비한 선택지는 단계마다 한두 개입니다.\n- 쓰는 시간이 줄었습니다. 사고 깊이를 낮음으로 고정하고 스트리밍으로 받아 받은 글자 수가 보입니다.\n- 뒤로 가기: 글이 한 번 써진 뒤에는 어느 화면에서든 확인 화면으로 돌아갑니다. 확인 화면과 쓰는 중에는 버릴지 먼저 묻습니다.\n- 고른 것과 쓴 글이 임시 저장됩니다. 앱이 꺼졌다가 창작 화면을 다시 열면 이어서 할지 묻습니다.\n- 페르소나 외형 칸에 소지품 JSON 조각이 섞여 나오던 것을 잘라냅니다. 도입부는 팩 도입부처럼 짧은 문단 9~11개로 쓰고 마지막 문단에 행동 셋을 둡니다.",
     "published_at": "2026-10-11"
   }
 }
