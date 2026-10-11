@@ -12,12 +12,12 @@
       "id": "azelan",
       "name": "아젤란",
       "description": "악마에게 침략당한 다크 판타지 세계관",
-      "version": "10.11.18",
-      "rev": 1791730591,
-      "size": 805353,
+      "version": "10.12",
+      "rev": 1791733726,
+      "size": 805362,
       "characters": 91,
-      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/2e2b0c7579930f33cf227303b56a9a2a818cfbfb/packs/azelan.json",
-      "notes": "도입부와 일행\n- 길드 게시판 도입부가 포르텔라의 모험가 길드 지부에서 시작합니다. 첫 장면 위치가 지도 가운데로 쏠리던 것을 바로잡았습니다.\n- 새벽의 검·브란 조·은빛 서약이 불리면 구성원의 시트가 함께 붙습니다. 모험가 길드 항목에 세 일행을 적었습니다.",
+      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/0202640eedd32abff453d2f582cf84a91f366c9a/packs/azelan.json",
+      "notes": "인물 카드 고침\n- 은빛 서약처럼 일행 이름을 함께 가진 인물들의 시트가 한 사람(레온)으로 합쳐지고 카드 외모가 모두 레온이 되던 것을 고쳤습니다. 이미 그렇게 된 이야기도 다시 열면 제 이름으로 돌아오고, 카드 외모는 다음 턴에 제 시트에서 다시 채워집니다.\n- 헤나 시트 손질.",
       "min_app": "0.1.4"
     }
   ],
