@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 24,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p24.pck",
-    "sha256": "3fd38fa18d93e38776d7e9e646b97eaa745aa86562608e7d54215dacf1bc40b6",
-    "sig": "0beepOpVgIokRLi1hDzN2zcH/gsEX4eAW6a16UNUedj3sY2fAmrVTXLv0hfcEhzh56sWEDcNDWXAY7ZoVGEBs2EOQz84KnN/lzt5aX99nfB/jnP1NmCG82SvtItOSYw7I9iLrkHcmySi3cUrnk0bDsszpJeydUFBofOHi33mvy5Z66sDJmCdVvLFlCrIzgzsAbeRZm4dRGJx/y+08rNUG5btIVNGp1ZnJ7cviv3f9tkB3xBHyfNuVyEN+FVTQP4ge7vZUa3LfpalwgnbZ952JSCpU+Fbbo7Zj7JIfjcCD7r5tC4Mr5D7GUvnjX1nfoqa+aLZp46fLUFlVlIiGr86tQ==",
-    "size": 1280088,
-    "notes": "아젤란 10.11.3\n- 서술 품질 회복: 인물 시트가 메인 프롬프트 뒤에 놓여 대사가 짧은 번역체로 흐르던 문제를 되돌림(프롬프트가 다시 대화 바로 앞).\n- 인물 85명 손질: 말투를 길이 지시 대신 말씨·어휘·버릇으로 다시 쓰고, 성격을 어느 장면에서나 쓸 수 있는 행동으로 다듬음. 드미트리는 시적인 비유를 쓰는 기병으로, 카라샤는 강자에게 승복한 거인으로, 일바는 눈을 가린 젊은 균열의 사제로 바뀜. 뱃사공 시그네 삭제.\n- 타이칼(부수는 소리)의 징후에서 \"빨리 늙음\" 삭제. 울판의 능력에 하늘의 흐름을 읽고 가축·전사를 축복하는 샤먼의 힘 추가.",
+    "n": 25,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p25.pck",
+    "sha256": "e974656090954b425f6b5c0de0d8aca27afa0b85eb357c831a4572cceae31c38",
+    "sig": "HA9AWPW1yaqw03dbeb1g40TUbNEhvncwlEEwz+dcYfcbaoVnUPUBclXXpQWyiptce8hoMpYaNabvj112sb+zJ/Q4CvXPSNyxvitr7WerXcsxs+mIw1ZBVmFGYntju4zXWfdkpVffIngRya+jl4T3gDqzKCFgiz6MLi3ibQxsKpYZgsznrYziSg7rmnX0cw5LEak74dymTicBVJRlSAt57LugvkGxFewjJrucmQ3W9LCGTKdDDr1E9mJT5ICFbuBKLrXNtfHfdsfAe/v3zeu1wUN3T43ksrvdf0LVf1CtHfRN8/7/mygccvmbe8AI3Hwj1ecsLKYTk5B9TatfrEJMJg==",
+    "size": 1287616,
+    "notes": "- 애정·신뢰: 기록 담당이 숫자를 정하지 않고 그 턴의 사건(도움·선물·목숨을 구함·배신…)을 신호로 알리면 앱이 2d6을 굴려 더합니다. 변화 칩에 \"카밀라 애정 +8\"처럼 보입니다.\n- 서술자가 애정·신뢰 띠(호감·우호·깊은 애정…)에 맞춰 인물이 기꺼이 하는 일의 폭을 달리합니다. 성향과 목표는 여전히 우선입니다.\n- 날씨가 더 자주 바뀝니다. 밤에도 비·안개·구름이 이어지고 맑음 쏠림을 줄였습니다.\n- 성적 묘사 애드온이 알몸·목욕·옷 갈아입기·입맞춤·포옹까지 다룹니다(애드온을 켜 두어야 합니다). 꺼져 있어도 몸은 뭉개지 않고 구체적으로 씁니다.\n- 음식·장소의 맛·냄새·감각 서술. 반나절 넘는 여정은 그동안 어떻게 먹었는지에 맞춰 공복이 정해집니다(하루 여정 뒤 늘 굶주림이던 것을 고침). 씻지 않으면 사흘부터 \"땀에 찌든 옷\" 같은 상태가 붙고, 씻으면 사라집니다.\n- 카밀라(아젤란): 가까워졌을 때의 변화를 시트에 적음. 팩 10.11.4",
     "published_at": "2026-10-11"
   }
 }
