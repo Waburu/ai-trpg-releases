@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 25,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p25.pck",
-    "sha256": "e974656090954b425f6b5c0de0d8aca27afa0b85eb357c831a4572cceae31c38",
-    "sig": "HA9AWPW1yaqw03dbeb1g40TUbNEhvncwlEEwz+dcYfcbaoVnUPUBclXXpQWyiptce8hoMpYaNabvj112sb+zJ/Q4CvXPSNyxvitr7WerXcsxs+mIw1ZBVmFGYntju4zXWfdkpVffIngRya+jl4T3gDqzKCFgiz6MLi3ibQxsKpYZgsznrYziSg7rmnX0cw5LEak74dymTicBVJRlSAt57LugvkGxFewjJrucmQ3W9LCGTKdDDr1E9mJT5ICFbuBKLrXNtfHfdsfAe/v3zeu1wUN3T43ksrvdf0LVf1CtHfRN8/7/mygccvmbe8AI3Hwj1ecsLKYTk5B9TatfrEJMJg==",
-    "size": 1287616,
-    "notes": "- 애정·신뢰: 기록 담당이 숫자를 정하지 않고 그 턴의 사건(도움·선물·목숨을 구함·배신…)을 신호로 알리면 앱이 2d6을 굴려 더합니다. 변화 칩에 \"카밀라 애정 +8\"처럼 보입니다.\n- 서술자가 애정·신뢰 띠(호감·우호·깊은 애정…)에 맞춰 인물이 기꺼이 하는 일의 폭을 달리합니다. 성향과 목표는 여전히 우선입니다.\n- 날씨가 더 자주 바뀝니다. 밤에도 비·안개·구름이 이어지고 맑음 쏠림을 줄였습니다.\n- 성적 묘사 애드온이 알몸·목욕·옷 갈아입기·입맞춤·포옹까지 다룹니다(애드온을 켜 두어야 합니다). 꺼져 있어도 몸은 뭉개지 않고 구체적으로 씁니다.\n- 음식·장소의 맛·냄새·감각 서술. 반나절 넘는 여정은 그동안 어떻게 먹었는지에 맞춰 공복이 정해집니다(하루 여정 뒤 늘 굶주림이던 것을 고침). 씻지 않으면 사흘부터 \"땀에 찌든 옷\" 같은 상태가 붙고, 씻으면 사라집니다.\n- 카밀라(아젤란): 가까워졌을 때의 변화를 시트에 적음. 팩 10.11.4",
+    "n": 26,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p26.pck",
+    "sha256": "cc7611c381bf08e5c9af96d8882e31f8f9649ff7f6958e35b4e69c51fb26f00e",
+    "sig": "ysqFr3F+PGkYJCb40initZq9mcw7EsqotRvrCrfScO0a0zFpHAiBBRRphdjyXGPY+feFn5as5w9b3zBPtQONqZC5UoxzoIwFa3aR0Nv7WdMJmAxP2TUAwhI7xBkjjoCi3s5QUryn1r05KwpU6Ro1YNl05kqrshfWAAY1S5ldVq+4WoZMjjP7CvBnPHj9/AS3OAdf6Q+fwg5P/m8RcI+2d69GNBdJvmsbn5wIL1+eXEEq6MdjZ2dMcCfTmwD9GtkwQeRzUnue0GkiFimSk1E08PShVMHHknUay8bn2+nLhaDLK3DHxgHaEZmnPLFwLyp8H6FAmw30zfbSO10ceTfM9w==",
+    "size": 1444088,
+    "notes": "- 창작 도입부: 새 이야기의 도입부 목록 맨 앞에 생겼습니다. 출생 지역 → 부모 → 어린 시절 → 청년 시절 → 신앙 → 떠나는 이유를 고르고 이름·성별·나이를 정하면 AI가 페르소나와 도입부를 써 줍니다. 확인 화면에서 지나온 단계를 눌러 바꾸거나 글을 고칠 수 있고, 입은 옷은 장비로 들어갑니다.\n- 새 이야기를 시작할 때 연출 설정(페르소나 조종·시점·분량·영구 죽음)과 애드온 설정 단계를 거칩니다. 이야기 메뉴의 연출·애드온 패널과 같은 조작이고, 처음 값은 지난번에 고른 값입니다. 페르소나 저장은 확인 화면의 스위치로 바뀌었습니다.\n- 서술이 어둡고 불편한 전개를 피하거나 미루지 않게 손질했습니다. 성적 묘사 애드온은 장면을 여러 턴에 걸쳐 진행하고 건너뛰거나 가리지 않습니다.\n- 모험가 파티: 아젤란에 일행 셋이 생겼습니다. 새벽의 검(초보, 아스터·줄리아·세실리아), 브란 조(노련, 브란·카타·로렌초), 은빛 서약(이름난 성기사 파티, 레온·이자벨라·헤나). 일행은 이야기에 함께 등장하고, 인물 화면의 동료 스위치 아래에 같은 일행이 보입니다. 일행에 들어가면 함께 다닐 구성원이 모두 동료 제안으로 뜹니다.\n- 새 인물: 줄리아, 세실리아, 레온, 이자벨라, 헤나, 그리고 검은 병으로 죽었다 일어난 구울 클로에(드라비아). 세계관에 성기사 항목 추가.\n- 인물 손질: 아스터(산골 출신 용사 지망생), 브란(음흉한 노장), 드미트리(약탈로 돌아선 기병), 티토(가짜 백작가 후계자 행세), 야스민(뒷골목 문서 위조꾼), 세헤르(춤으로 마법을 일으키는 무희), 레일라(과거 추가). 팩 10.11.10",
     "published_at": "2026-10-11"
   }
 }
