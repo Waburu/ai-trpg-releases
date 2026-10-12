@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 33,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p33.pck",
-    "sha256": "1a1a6a7fd5a155fc3433647cc2c170912af9ac3fbe781836ed17f6c316eefe96",
-    "sig": "Bjvx/OgRivRgRLFEgZ1NjowC7LGRgBiO+iUGEqCKjrGda1K6uRNNgsf7r6pSTtctHWgbKmhEnwvHTE1ZtpG9AyPyRaKlkK5ZppBdyFcmSUzjdgKeZCQEEDYB9ZNP9rIx6dCilNLYpr7k+lBUiN+EioFZ5Wx18xXy8IyaFU0acprc9eJ1E6CAc5+OWYUaXyizvI3nmgXNAV9CLTTyIzcGA7TTvtwtHF4ylbZ2E6mlH5KwAQ/lG0FiimPMDzpKpd0Eg6XzWYeit0HOPUo9NsUgdjkZkRd3Gw5fh9etuaUgmPYdCVKo9acEQ/umPxqC9rxdSnuKQ9ZwZa4ur/dOG6IKkA==",
-    "size": 1477184,
-    "notes": "- 인물 화면에서 인물이 쌓여 화면을 넘으면 끌어도 스크롤되지 않던 것을 고쳤습니다. 이야기 메뉴의 다른 화면도 같은 방식으로 손봤습니다.\n- 설정 › 개발 로그에 \"참조 로어 보기\"를 넣었습니다(개발 확인용). 켜면 이야기 메뉴에 [참조 로어] 줄이 생겨, 지난 턴의 서술에 들어간 로어와 인물, 들어온 경로(장소·키워드·사서·조회)를 볼 수 있습니다. 매 턴 개발 로그에도 한 줄 남습니다.",
+    "n": 34,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p34.pck",
+    "sha256": "c0fac4dc927d82b3eee4bac28595a6a7adb6ed28ad89b9cb70e5705511c0bcf9",
+    "sig": "DoZsyj74aViNOSQ3VyPduC6X99f4sHZWI/8Vsc1YFS5mGnRQTR2YrHOjbtQZHVbJ97qQL1gngCCXBW88M88nbzw33M4MZJkh8jy9SHkEjQFirkmEqTanBq6Gahagu0k/TxdpgXb0Cp+cILd5SZQrPg3KojbTv5XIdKDbWJODtZ6KEef6QvwGv05ZXfAyC4e4YIv8jp986dl0nqE0+RIs9tBAuDcpWBiOq2N7VdnmjhUXZ25szGecO7bmRjHLsEk66SaTIgH7znl+5ORsFqvdNtlk4Sc7WoVhXtxuA6ieH4T4yNFGjaI02WRkqS5orK8ALTaoHjMIoLwGiougKb0Y6g==",
+    "size": 1481520,
+    "notes": "장면에 맞는 인물이 더 자주 나오게\n- 인물 키워드에 확률을 붙일 수 있게 했습니다(예: 여관 20%). 흔한 장면 낱말도 키워드로 쓸 수 있고, 걸리면 그 확률로만 인물을 참조합니다. 이름으로는 늘 참조합니다.\n- 서술이 새 인물을 지어내기 전에, 이미 있는 주요 인물과 참조된 인물, 로어에 이름이 있는 인물부터 쓰도록 안내를 바꿨습니다.\n- 참조하는 로어·인물의 상한을 5천 자에서 1만 자로 늘렸습니다. 동료와 다니는 긴 이야기에서도 장면 인물이 들어올 자리가 생깁니다. 진행 중인 이야기도 다시 열면 적용됩니다.\n- 떠돌이 인물은 유형과 상관없이 어느 지역에서나 주요 인물로 뽑힐 수 있습니다.\n- 참조 로어 보기(개발 설정)에 주요 인물 묶음과, 확률로 들어온 인물 표시(키워드 20%)를 더했습니다.",
     "published_at": "2026-10-12"
   }
 }
