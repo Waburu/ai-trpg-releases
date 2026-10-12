@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 32,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p32.pck",
-    "sha256": "fe428c16b8b82a5f07466876ddb3a1ef3aa963d4d25929efe559307bf9594b6d",
-    "sig": "h0/YrTmKnT2nNKjgZS7bg4zZ/WfaPB3N5Vf2lCRiK8vtS/ChiHlOSY37Af7NWD97HbObXqXxSxlXZyWVtWRpmf58YV5a3IfjIyRgGumev6w81khbt+fEOR6/41F/gFLiCsUhRKBbenTjF8fQeuK25HU9OrNUEtT7rW2VygsHXtikWfIo6R+QNVIEGBAZj6PVlFCumfxouAkC67xY/ee5Quv/HxMBd+zYyN1F5L07OD/CP9WoJawe5owVYXVWvFiYjd+cxIQAQ6EPba7KHQQLhAWcm2gVkz0VeEi8Rfcmk8yWrVeKjM2EBR4a8Ng4tbpuuxZm2clhiimvrHy5XxKa5w==",
-    "size": 1459328,
-    "notes": "인물 기억 되살리기\n- 지난 패치(30) 뒤로 일부 인물 카드의 기억이 비어 보이던 것을 고쳤습니다. 레온·이자벨라·헤나, 브란, 티토, 베넷, 루이, 세베린, 이레네, 제레미, 케스의 시트 이름이 지워지면서 카드가 기억을 찾지 못했습니다. 기억 내용은 지워지지 않았고, 이야기를 다시 열면 이름이 돌아오며 기억도 다시 보입니다.\n- 지난 이야기를 정리한 기억이 거의 빈 채로 저장되던 것을 막았습니다. 정리가 비면 다시 시도하고, 그래도 비면 턴마다 남긴 기록으로 채웁니다. 이미 비어 버린 구간은 되살아나지 않습니다.",
+    "n": 33,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p33.pck",
+    "sha256": "1a1a6a7fd5a155fc3433647cc2c170912af9ac3fbe781836ed17f6c316eefe96",
+    "sig": "Bjvx/OgRivRgRLFEgZ1NjowC7LGRgBiO+iUGEqCKjrGda1K6uRNNgsf7r6pSTtctHWgbKmhEnwvHTE1ZtpG9AyPyRaKlkK5ZppBdyFcmSUzjdgKeZCQEEDYB9ZNP9rIx6dCilNLYpr7k+lBUiN+EioFZ5Wx18xXy8IyaFU0acprc9eJ1E6CAc5+OWYUaXyizvI3nmgXNAV9CLTTyIzcGA7TTvtwtHF4ylbZ2E6mlH5KwAQ/lG0FiimPMDzpKpd0Eg6XzWYeit0HOPUo9NsUgdjkZkRd3Gw5fh9etuaUgmPYdCVKo9acEQ/umPxqC9rxdSnuKQ9ZwZa4ur/dOG6IKkA==",
+    "size": 1477184,
+    "notes": "- 인물 화면에서 인물이 쌓여 화면을 넘으면 끌어도 스크롤되지 않던 것을 고쳤습니다. 이야기 메뉴의 다른 화면도 같은 방식으로 손봤습니다.\n- 설정 › 개발 로그에 \"참조 로어 보기\"를 넣었습니다(개발 확인용). 켜면 이야기 메뉴에 [참조 로어] 줄이 생겨, 지난 턴의 서술에 들어간 로어와 인물, 들어온 경로(장소·키워드·사서·조회)를 볼 수 있습니다. 매 턴 개발 로그에도 한 줄 남습니다.",
     "published_at": "2026-10-12"
   }
 }
