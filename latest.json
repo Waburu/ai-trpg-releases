@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 31,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p31.pck",
-    "sha256": "0dc273519f337adfd448d4e955165a0b25bd4a6a638204dfc900db920dab2cc4",
-    "sig": "3oYTm7EMPtUYfC5pSB2HGYqZCJw6r0gKrVhPK05xtK2/iFQHw02EZnFcrW+9qh7WhUKfevcJuL+Lb4BVo9oLf+pbUGNkPEm9cP8xnZhccX8U/4BRkqOPIUx/VaaytMv70ZX0oUW+1LEA4XrUWfcDFBeknjisz7a6S1OOABvHOrnbVRhYbBrgyDjrzaU6qShmg/JXnDXgmypprGCEzSuBiLka9vOb+SXBdyr0Z52QSDy5y5u++bUURY7RxVKeewCogM+DCj++5nb29JELIVuzS6SOi7+mJMczuVB0rso16w84HQwQhI85i8zXo793369alJ2Gz+6fq5qGM5DH0cbOyw==",
-    "size": 1457808,
-    "notes": "인물 상태 이름표\n- 인물 카드의 상태(술에 취함, 탈진, 출혈, 멍, 상처 등)가 이야기 속 시간이 지나면 저절로 풀립니다. 장면에 없는 인물도 마찬가지입니다. 예: 흥분 1시간, 술에 취함 6시간, 멍 2일, 심각한 상처 14일, 부러짐 40일. 빙의·저주·질병·포박·절단 같은 것은 이야기에서 풀려야 사라집니다.\n- 잘릴 데가 없는데 \"절단\"이 붙던 것을 고쳤습니다. 절단은 팔·다리에만 붙고, 이미 잘못 붙은 것은 이야기를 다시 열면 가벼운 상처로 바뀝니다.\n- 관계 장면의 흔적을 위한 이름표가 생겼습니다: 절정, 극한의 쾌락, 여운, 다리 풀림, 알몸, 반쯤 벗음, 체액 묻음, 입맞춤 자국, 임신, 젖음. 빨간색이 아닌 이름표로 보이고, 이런 흔적이 상처로 적히지 않습니다. 감정에 \"황홀\"이 생겼습니다.\n- 장면을 떠난 인물의 감정은 다음 턴부터 비웁니다.",
+    "n": 32,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p32.pck",
+    "sha256": "fe428c16b8b82a5f07466876ddb3a1ef3aa963d4d25929efe559307bf9594b6d",
+    "sig": "h0/YrTmKnT2nNKjgZS7bg4zZ/WfaPB3N5Vf2lCRiK8vtS/ChiHlOSY37Af7NWD97HbObXqXxSxlXZyWVtWRpmf58YV5a3IfjIyRgGumev6w81khbt+fEOR6/41F/gFLiCsUhRKBbenTjF8fQeuK25HU9OrNUEtT7rW2VygsHXtikWfIo6R+QNVIEGBAZj6PVlFCumfxouAkC67xY/ee5Quv/HxMBd+zYyN1F5L07OD/CP9WoJawe5owVYXVWvFiYjd+cxIQAQ6EPba7KHQQLhAWcm2gVkz0VeEi8Rfcmk8yWrVeKjM2EBR4a8Ng4tbpuuxZm2clhiimvrHy5XxKa5w==",
+    "size": 1459328,
+    "notes": "인물 기억 되살리기\n- 지난 패치(30) 뒤로 일부 인물 카드의 기억이 비어 보이던 것을 고쳤습니다. 레온·이자벨라·헤나, 브란, 티토, 베넷, 루이, 세베린, 이레네, 제레미, 케스의 시트 이름이 지워지면서 카드가 기억을 찾지 못했습니다. 기억 내용은 지워지지 않았고, 이야기를 다시 열면 이름이 돌아오며 기억도 다시 보입니다.\n- 지난 이야기를 정리한 기억이 거의 빈 채로 저장되던 것을 막았습니다. 정리가 비면 다시 시도하고, 그래도 비면 턴마다 남긴 기록으로 채웁니다. 이미 비어 버린 구간은 되살아나지 않습니다.",
     "published_at": "2026-10-12"
   }
 }
