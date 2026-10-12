@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 29,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p29.pck",
-    "sha256": "9a3bcf56a14d578173e7c6180f9f289fbf739d0a3b413265d870ee26ecf1610e",
-    "sig": "CcI4MsMqGNHovbDR8bhB1cu3wifwzG+IQARMJLQYIlXMhDsgblwm07srfTif07vleDiXneooIpzPGf6MwtAxTmpOkAVZAvF2G6gqiLzFS9GbI5aCHDSkly6+4sRC9MEhonX6rADD6YmKeadJ4qh3LlzNC2KZY60K5LsSmwoDfNUwJiUivZRQHyXGf8sHi367+KolX7Qz7HI3dfeEWVyX6w1o1bECdZksfxptjbgPrqItZ9EbB/V8EZAQbSwMe0od9eywXjHIjoxkNskyNhYbXYFgUFtTh72wdt66t9ZI6Ot5LG88QultU+AvVxD3H7nu4AwVcBC6I9VpkibbwKv4Ow==",
-    "size": 1442792,
-    "notes": "인물 카드 고침\n- 은빛 서약처럼 일행 이름을 함께 가진 인물들의 시트가 한 사람(레온)으로 합쳐지고 카드 외모가 모두 레온이 되던 것을 고쳤습니다. 이미 그렇게 된 이야기도 다시 열면 제 이름으로 돌아오고, 카드 외모는 다음 턴에 제 시트에서 다시 채워집니다.\n- 헤나 시트 손질.",
+    "n": 30,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p30.pck",
+    "sha256": "ad21c7cb83ff4753ffa3243269050ece75fbff4a85756b483bdc18b6456a9984",
+    "sig": "aotpxOoLJQ4fl8k7UtVaUCox0aDI7jHoXgHrPM9Jgwx3a9b+EBaovZU+j16h6R8evo+3kAUzIcvcfZ1AaWLd7vw0NDxFksg8guCLOD/TJyblUfw3t0ksnaj5u1jm2hxDv6fX8VsCaBGglpVTlh5i1r/14gHEpiyxUaGnCz/EGYsIMbv6OxkE2cl4nTlGwYT9/HCVpSfvXNPzQsDTMqLUhuSGLg/8fN7aLb6eWw2WLieLCts38MIPnZdLtIMT3CofZlB5dCW53aQHp4DFZo7uHf0uvmgXgfI9CCmhUqL/BHzYoJ4z5xApyTOqLzml7cW/uAe4Pd6jXLbifuIgrv3jgw==",
+    "size": 1455792,
+    "notes": "인물 키워드\n- 인물 시트에 키워드 칸이 생겼습니다. 이름이 나오지 않아도 장면 낱말로 그 인물의 시트가 붙습니다. 예: 포르텔라의 서커스 장면에 광대 일라리아, 도둑 길드 이야기에 다리오와 피아.\n- 키워드는 그 인물이 사는 지역에 있을 때만 걸립니다. 떠돌이 인물과 일행 이름은 어디서나 걸립니다.\n- 일행 이름(새벽의 검·브란 조·은빛 서약)을 인물 이름이 아니라 키워드로 옮겨, 일행 시트가 한 사람으로 합쳐질 일이 없어졌습니다. 이미 시작한 이야기도 다시 열면 바뀝니다.\n- 사냥꾼 제레미와 케스가 섬 밖을 떠도는 인물이 됐습니다.\n- 월드 편집 › 인물에 키워드 줄이 생겼습니다.",
     "published_at": "2026-10-12"
   }
 }
