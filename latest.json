@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 34,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p34.pck",
-    "sha256": "c0fac4dc927d82b3eee4bac28595a6a7adb6ed28ad89b9cb70e5705511c0bcf9",
-    "sig": "DoZsyj74aViNOSQ3VyPduC6X99f4sHZWI/8Vsc1YFS5mGnRQTR2YrHOjbtQZHVbJ97qQL1gngCCXBW88M88nbzw33M4MZJkh8jy9SHkEjQFirkmEqTanBq6Gahagu0k/TxdpgXb0Cp+cILd5SZQrPg3KojbTv5XIdKDbWJODtZ6KEef6QvwGv05ZXfAyC4e4YIv8jp986dl0nqE0+RIs9tBAuDcpWBiOq2N7VdnmjhUXZ25szGecO7bmRjHLsEk66SaTIgH7znl+5ORsFqvdNtlk4Sc7WoVhXtxuA6ieH4T4yNFGjaI02WRkqS5orK8ALTaoHjMIoLwGiougKb0Y6g==",
-    "size": 1481520,
-    "notes": "장면에 맞는 인물이 더 자주 나오게\n- 인물 키워드에 확률을 붙일 수 있게 했습니다(예: 여관 20%). 흔한 장면 낱말도 키워드로 쓸 수 있고, 걸리면 그 확률로만 인물을 참조합니다. 이름으로는 늘 참조합니다.\n- 서술이 새 인물을 지어내기 전에, 이미 있는 주요 인물과 참조된 인물, 로어에 이름이 있는 인물부터 쓰도록 안내를 바꿨습니다.\n- 참조하는 로어·인물의 상한을 5천 자에서 1만 자로 늘렸습니다. 동료와 다니는 긴 이야기에서도 장면 인물이 들어올 자리가 생깁니다. 진행 중인 이야기도 다시 열면 적용됩니다.\n- 떠돌이 인물은 유형과 상관없이 어느 지역에서나 주요 인물로 뽑힐 수 있습니다.\n- 참조 로어 보기(개발 설정)에 주요 인물 묶음과, 확률로 들어온 인물 표시(키워드 20%)를 더했습니다.",
-    "published_at": "2026-10-12"
+    "n": 35,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p35.pck",
+    "sha256": "608c06d331c964f055891c80b26b820596bb8ac8363c36f2b8561439050699d8",
+    "sig": "fhTpZTp1KHg8oYoIAwu5mZedk7M6cbbJ8xRlcfzZ62xglN5pzLvEdMLK+bQuEH1JN28Bnf5V1nUU9Bp2BHfo9JicTEOy88w0MK9zNJwyUkKRNonnWRY3KLfZ9mzINX5FGMsr4C6i66VHQuL3MLOeCXHRMbGKkv9HBw6ekymwYm27mrUE6hNfMod5TNzhJ3BkLys7LRnWvte2+ZAVRbvIhh6AjiqCgPjETqdtBXdh5a5tDL8jrJJkSLQEK5LkZwGbZqX6yc+R2lz4J1u4M2nfnUOsWM7mJy7XHVPZhGWUsMpmhknlYt4q0dtsAuXmuApFCNzTmmcEzLyaBJSLXPFk+Q==",
+    "size": 1482832,
+    "notes": "장면에 들어온 인물이 바로 사라지지 않게\n- 키워드 확률로 들어온 인물이 다음 턴에 다시 굴려져 사라지던 것을 고쳤습니다. 키워드가 이어지는 동안 결과를 이어 쓰고, 3턴이 지나거나 키워드가 끊기면 새로 굴립니다.\n- 시작 화면의 참조 로어 미리보기와 실제 첫 턴이 같은 인물을 보입니다.\n- 서술에 등장한 인물은 지금처럼 이름과 장면으로 계속 참조합니다.",
+    "published_at": "2026-10-13"
   }
 }
