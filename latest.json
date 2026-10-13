@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 35,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p35.pck",
-    "sha256": "608c06d331c964f055891c80b26b820596bb8ac8363c36f2b8561439050699d8",
-    "sig": "fhTpZTp1KHg8oYoIAwu5mZedk7M6cbbJ8xRlcfzZ62xglN5pzLvEdMLK+bQuEH1JN28Bnf5V1nUU9Bp2BHfo9JicTEOy88w0MK9zNJwyUkKRNonnWRY3KLfZ9mzINX5FGMsr4C6i66VHQuL3MLOeCXHRMbGKkv9HBw6ekymwYm27mrUE6hNfMod5TNzhJ3BkLys7LRnWvte2+ZAVRbvIhh6AjiqCgPjETqdtBXdh5a5tDL8jrJJkSLQEK5LkZwGbZqX6yc+R2lz4J1u4M2nfnUOsWM7mJy7XHVPZhGWUsMpmhknlYt4q0dtsAuXmuApFCNzTmmcEzLyaBJSLXPFk+Q==",
-    "size": 1482832,
-    "notes": "장면에 들어온 인물이 바로 사라지지 않게\n- 키워드 확률로 들어온 인물이 다음 턴에 다시 굴려져 사라지던 것을 고쳤습니다. 키워드가 이어지는 동안 결과를 이어 쓰고, 3턴이 지나거나 키워드가 끊기면 새로 굴립니다.\n- 시작 화면의 참조 로어 미리보기와 실제 첫 턴이 같은 인물을 보입니다.\n- 서술에 등장한 인물은 지금처럼 이름과 장면으로 계속 참조합니다.",
+    "n": 36,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p36.pck",
+    "sha256": "4933c22392c58e532f5cb0888e1a6575fbbb927979a395e0a90f01cb958f2bcd",
+    "sig": "CHAYHa1P6MBe1x6s3xy5+t+tIwWc8Egc4vLU8IjJbMuh49I5b6XO8FoDJlf+g0YMxESBgeEtVYxBqyHC7AH1pXOBKcbycJVhYFNiDtZtvTjboM9A5DM+adVpLV/LeTFrVhiewisRbIdMVEd0sGqL2q05ZU8CLEMXV/KHABAAHYgbQ3qBwXnUpLp/aJ9FqVhNu6OadhEQLXNgsYYtE+VHgEiP4J1GhEHSAjXTRKS1SndVjTcjfgR/+51ZPvu/NzNCiv+7AgANHVOYrUCd99w32XWs7Hc4pb10WtxseFyE59Bd2OYQq2cUcNJo5lDilkVFfVJGeqGhEeaQooUoESjeOA==",
+    "size": 1492596,
+    "notes": "사건과 일상의 만남을 키워드로\n- '이벤트를 확률로 일으키기' 설정과 일상의 만남 간격 설정을 없앴습니다. 사건과 일상의 만남은 이제 인물처럼 키워드로 걸립니다. 지금 위치, 입력, 최근 서술에 그 낱말이 나오면 확률로 굴려 통과한 것을 최대 3개까지 AI 에게 '지금 주변에서 일어날 수 있는 일'로 넘기고, 장면에 맞으면 AI 가 하나를 엮습니다.\n- 넘긴 사건은 키워드가 이어지는 동안 자리를 지켜 이야기가 갑자기 바뀌지 않습니다. 빈 자리는 무작위로 채웁니다.\n- 해결된 지역 떡밥은 20턴 동안 쉽니다. 서술에 남은 낱말로 다시 끌려오지 않고, 직접 이름을 말하면 다시 들어옵니다.\n- 진행 중인 이야기도 다시 열면 사건 키워드가 맞춰집니다.",
     "published_at": "2026-10-13"
   }
 }
