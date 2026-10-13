@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 37,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p37.pck",
-    "sha256": "9231e871ff21104cad12cb58c70f43963faaa733f3313f48e670e23e9a0890c4",
-    "sig": "p01qGVeDo2sR7u5EuTLYStvmo1ZVreeJY19jOauuDfEJ8EVLeqIVkjRrU/fRW7KfRiUwoOtTHLcsro3BNZocCKswhQDEvIMyAdCYFVG8rydZGv6JKxLDbB7p/0MDjn3G7juqO1FJwwC7uRZkbc3w7CYSBatenXP4WZ3ptnciFD9GV7UA1ymgSFRf7euj2DJauTxcl4wQ+Pv2Z9fNI0lr0wRVBMFADiHNmNMRdWdB7Bulnbae3iLo/DCqDqEsGKwBFiWT2A2kMd5NmerZv96WaUPTYupIhMaZYCnZSakVpK/GdNul6buVk88c2iAJE8XiWJUHt3tSy6eiSrSlgUwnsg==",
-    "size": 1526512,
-    "notes": "인물 카드 갱신이 밀리던 것\n- 등장인물이 많은 장면이나 밀린 턴을 함께 정리할 때 관계·상황 정리 응답이 길이 제한에 걸려 통째로 버려지고, 인물 카드가 몇 턴씩 늦게 바뀌던 것을 고쳤습니다. 정리 응답의 길이 제한을 넉넉히 늘렸습니다.\n- 이름 없는 단역은 짧은 카드로 따로 받아 정리 응답이 가벼워졌습니다.\n- 호칭으로 불리던 인물이 이름을 밝히면(예: \"광대\"가 \"일라리아\"로) 같은 카드가 이름 있는 카드로 바뀌도록 정리 순서를 고쳤습니다.\n- 업데이트 후 첫 턴은 서술 캐시를 한 번 새로 써서 그 턴만 비용이 조금 더 나옵니다.",
+    "n": 38,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p38.pck",
+    "sha256": "3875e858620ddce9bde85df3ce17c5612ce903602e2edfee0e933bab557a1b2b",
+    "sig": "tdnE28NwdVxUvyryTYSYwT8xsQdmQM/Ge+1EIzUd68SQORVeSbOVyGuvil+m0qy5uzBIlGVxsEBlfYIdSa2Lrlf0hypHOqbxltkLC3vRNzC92+yGqp7ygid3IGlD01XxuxIxYmnWkNQ/bhueB8mbQJNEbwGjmBstVVatBXldGJHBtWn/k6XlHhNNk5OJjrEzZ3vkMi5sDAangf1U/w820FZH/nx+6t5Mync1ksa+UvEIQ4pX+lbE1mEjXy33tFKi+mym2PJA05CcjfKaUDctZjSsJmroQD8knMtaXYYUvv7c17eU2QtFS2lcTATsbiQ1s8cAAM7ZcPvbM7DEWCSQUw==",
+    "size": 1517652,
+    "notes": "애정·신뢰가 오르지 않던 것\n- 지난 패치(37) 이후 인물의 애정·신뢰가 거의 바뀌지 않던 것을 고쳤습니다. 정리 요청의 칸 순서가 바뀌면서 AI 가 애정·신뢰 신호를 거의 쓰지 않게 됐던 것을 되돌렸습니다.\n- 지난 패치의 인물 카드 갱신 개선(길이 제한 늘림, 단역 따로 정리, 이름 밝힌 인물의 카드 교체)은 그대로입니다.\n- 업데이트 후 첫 턴은 서술 캐시를 한 번 새로 써서 그 턴만 비용이 조금 더 나옵니다.",
     "published_at": "2026-10-14"
   }
 }
