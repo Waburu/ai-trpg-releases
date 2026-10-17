@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 40,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p40.pck",
-    "sha256": "520d45107866f81aa4a3d5ceab7566275513fc4521e795c32cf2317784498305",
-    "sig": "KQgPBo5nLwQkgwRvZRfn4fDFYhagcttS2w+VUrR7XLJUhHJ1N8DTqKPSc0qDAsKtJPxdFRBJwBwkKmfAtbO+5P+EccZkrQlZEQhjkkyqGnWazT7kwSP7kXN2gHlSIO5ull7WXxSAxaVfh4+p6Y9jGzzlo5OvqtK6zIqxgt9Kl1XcWJm31LqEQsyEcTVE9zHM6RwMC5YkCgCuVsRyVBHCkKhbomMx6LJHb5o/jhaC00NTp/4jyFRm9lgmllJlaL8TEyZ42jJvhnsBEIbIqTmFubQGdyUW5T9LwwRUIKdbc2DbT6ug4qKnkuOxjw/8t+QTfseqeK1pU7fYfAX7sTyGow==",
-    "size": 1560952,
-    "notes": "**0.1.4 패치 40**\n- 설정에서 API 제공자를 구글(Gemini)로 바꿀 수 있어요. 서술은 Gemini 4 Argon·3.8 Flash·3.5 Flash-Lite, 요약은 3.5 Flash-Lite·3.8 Flash 중에서 고르고, 판정 판단·자료 보강도 그 제공자 모델을 써요. 제공자마다 키와 마지막 모델을 따로 기억해요.\n- Gemini 는 같은 앞부분을 자동으로 캐시하고(요금의 1/10), 생각을 끌 수 없어 사고 깊이 \"낮음\"이 가장 싼 단계예요. 성인 서술에 맞게 안전 필터는 끄고 보내요.\n- 이야기 도중에 제공자를 바꿔도 이야기는 그대로 이어져요.\n- 입력 줄의 [모델 ⌄] 알약이 긴 모델 이름에 화면을 넘기지 않게 짧은 이름을 써요.\n- 서술이 페르소나를 다른 곳으로 옮겼을 때 턴 기록에 장소를 꼭 적도록 해, 지도가 따라오지 않던 경우를 줄였어요.\n- 비용 화면의 요금 안내를 두 제공자 기준으로 고쳤어요.",
-    "published_at": "2026-10-15"
+    "n": 41,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p41.pck",
+    "sha256": "8dc71cdb03a7064165b2c404a48edd67767edd3e3943dbebf7b3ea170cb08913",
+    "sig": "5bOru7CnjBnZIg8UYzsf2QrrOdqlrAD7xy3KIdBXmIt75prECR50XKlUAzs5dcXfZyEa63Kl6jIX+QO9RQg8vyrVAmosTAh0cKY6utEn05GZk176azhbzUk+rCTLf/nvEeroFzr0QRElJ9cFKRNM5vd1EVdMGmuoMqLmQwz7723KiHDWq7YaNvgm///5At8+8+oU3GDbXydhJwMvBNCtcJrkrf4jw/0cy6OG+pMPccDre7rsdvU0dY06l7K3kOthUDgnQwHzB3DbZxwnU1E3C9sCvKOvvb99ow74CsPz8D3Kq+h1Jeb2IoB8tmKGQ3ASUEC/HCQz3/x1rAKgLcmfoA==",
+    "size": 1573240,
+    "notes": "**0.1.4 패치 41**\n- 지도 위 표지가 여정을 따라가요. 서술자가 다른 거점까지의 길을 물으면 앱이 그 경로를 기억하고, 턴마다 흐른 시간만큼 길 위로 표지를 옮겨요. 도중에 멈추거나 야영해도 자리가 출발지에 남거나 엉뚱한 곳으로 뛰지 않아요.\n- 도착 전에 목적지 이름이 섞인 길 이름을 써도 미리 뛰지 않고, 도중에 적은 야영지·부락은 그 자리에 찍혀요.\n- 서술자에게 여정 진행(며칠 지남, 며칠 남음)을 알려 줘 도착 시점이 어긋나는 일을 줄였어요.\n- Gemini 선불 잔액이 떨어졌을 때 알림을 알기 쉽게 바꿨어요.",
+    "published_at": "2026-10-17"
   }
 }
