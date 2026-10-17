@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 41,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p41.pck",
-    "sha256": "8dc71cdb03a7064165b2c404a48edd67767edd3e3943dbebf7b3ea170cb08913",
-    "sig": "5bOru7CnjBnZIg8UYzsf2QrrOdqlrAD7xy3KIdBXmIt75prECR50XKlUAzs5dcXfZyEa63Kl6jIX+QO9RQg8vyrVAmosTAh0cKY6utEn05GZk176azhbzUk+rCTLf/nvEeroFzr0QRElJ9cFKRNM5vd1EVdMGmuoMqLmQwz7723KiHDWq7YaNvgm///5At8+8+oU3GDbXydhJwMvBNCtcJrkrf4jw/0cy6OG+pMPccDre7rsdvU0dY06l7K3kOthUDgnQwHzB3DbZxwnU1E3C9sCvKOvvb99ow74CsPz8D3Kq+h1Jeb2IoB8tmKGQ3ASUEC/HCQz3/x1rAKgLcmfoA==",
-    "size": 1573240,
-    "notes": "**0.1.4 패치 41**\n- 지도 위 표지가 여정을 따라가요. 서술자가 다른 거점까지의 길을 물으면 앱이 그 경로를 기억하고, 턴마다 흐른 시간만큼 길 위로 표지를 옮겨요. 도중에 멈추거나 야영해도 자리가 출발지에 남거나 엉뚱한 곳으로 뛰지 않아요.\n- 도착 전에 목적지 이름이 섞인 길 이름을 써도 미리 뛰지 않고, 도중에 적은 야영지·부락은 그 자리에 찍혀요.\n- 서술자에게 여정 진행(며칠 지남, 며칠 남음)을 알려 줘 도착 시점이 어긋나는 일을 줄였어요.\n- Gemini 선불 잔액이 떨어졌을 때 알림을 알기 쉽게 바꿨어요.",
+    "n": 42,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p42.pck",
+    "sha256": "8a210e69d5dc2797f255aa193d6647218d7a44c24f4a2b800680ecd288baff0e",
+    "sig": "ox8+NaZO2aF/9ZoyRwt26e7S9a2Q/cm9ZxQPDf7F22Kl04MzPOQ2Ub8UuqZuV7LVdjy3zDNLu3rDKUY4evK3upGdEHS+8vy4d+qxwCLslQzve/lKwhmv4kNBE07kGy+Zr9Zfl9aRxA0vkfW4Km3w/PszQQ4T+n8LwpSFw//eiaIwgOgdX1wetPl5C4t80GTYZqUoCLpJ/aVj61nGS15gyvL3i1oCVKI+1LrX8+NNGmYbzU6BqGwPHK7at2zDJTG73yjvhq1w/m1RVf/Xe7MVu2dS2WLcFsSaKfaMhMCOY2UhxnTEuBa00ftXEmRG9uIdWpxr3zd+jQ2jslLXwO/fOg==",
+    "size": 1579212,
+    "notes": "**0.1.4 패치 42**\n- 턴 아래 변화 칩이 길면 본문이 화면 오른쪽으로 잘려 나가던 문제를 고쳤어요. 긴 칩은 줄바꿈해서 화면 안에 들어가요.\n- 소유 자산이 바뀔 때 칩에 바뀐 항목 이름만 보여요(예: \"리스코스 남작령: 상태·성채·세탁소\"). 자세한 값은 상황 서랍의 소유 › 자산에서 볼 수 있어요.",
     "published_at": "2026-10-17"
   }
 }
