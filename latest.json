@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 42,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p42.pck",
-    "sha256": "8a210e69d5dc2797f255aa193d6647218d7a44c24f4a2b800680ecd288baff0e",
-    "sig": "ox8+NaZO2aF/9ZoyRwt26e7S9a2Q/cm9ZxQPDf7F22Kl04MzPOQ2Ub8UuqZuV7LVdjy3zDNLu3rDKUY4evK3upGdEHS+8vy4d+qxwCLslQzve/lKwhmv4kNBE07kGy+Zr9Zfl9aRxA0vkfW4Km3w/PszQQ4T+n8LwpSFw//eiaIwgOgdX1wetPl5C4t80GTYZqUoCLpJ/aVj61nGS15gyvL3i1oCVKI+1LrX8+NNGmYbzU6BqGwPHK7at2zDJTG73yjvhq1w/m1RVf/Xe7MVu2dS2WLcFsSaKfaMhMCOY2UhxnTEuBa00ftXEmRG9uIdWpxr3zd+jQ2jslLXwO/fOg==",
-    "size": 1579212,
-    "notes": "**0.1.4 패치 42**\n- 턴 아래 변화 칩이 길면 본문이 화면 오른쪽으로 잘려 나가던 문제를 고쳤어요. 긴 칩은 줄바꿈해서 화면 안에 들어가요.\n- 소유 자산이 바뀔 때 칩에 바뀐 항목 이름만 보여요(예: \"리스코스 남작령: 상태·성채·세탁소\"). 자세한 값은 상황 서랍의 소유 › 자산에서 볼 수 있어요.",
-    "published_at": "2026-10-17"
+    "n": 43,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p43.pck",
+    "sha256": "166c97a5f2e9a3c17775faad8e83f48d7d4952233999222b7b320ddd82a74c1f",
+    "sig": "LM4f28j2wHCw5bZlPGjmIRSkBxOEYGx3aFMcVc3VUvCEQdY+LJh/ESD2ylyFp/totdPePP/9+diO1ju4ZPy9wWkpKnz/1e3BMh6TjDtnLGmQPivs7qDpCKxDQAURQm5sFLRdUhdDYWO/6Afquc0bqc4PGHK7dwok3FFTb9SL0sIeoDYY+BK9PlixeRpyEl6aMMsGCqJQhsIy2AnI2F94jxdEy/Toj2ae5dyLCoD6/jOzCqAA7TTnD3Vrj21YVKLdUVFDBkK5nhEVg0PUsZtIkin5EIG+gEGI9NJrx7lscydanoUx8NEIo8DNHxAP2OZy9DuXy7p1mb/UrhsFCXA3tw==",
+    "size": 1596044,
+    "notes": "**0.1.4 패치 43**\n- 딥시크(DeepSeek)를 쓸 수 있어요. 설정 › 제공자에서 딥시크를 고르고 키를 넣으면 서술은 V4.1 Flash(기본)나 V4 Pro가, 기록 정리와 판정은 V4.1 Flash가 맡아요. 요금이 훨씬 싸고, 평일 10–13시·15–19시(한국 시각)가 아니면 반값이에요.\n- 기억 화면이 [전체 서사] [과거] 탭으로 나뉘었어요. 전체 서사의 책 아이콘을 누르면 지금까지의 기억을 서술 모델이 2천 자 안쪽의 \"지나간 과거\"로 압축하고, 다음 기록 정리 때 이야기에 반영돼요.\n- 기억이 20개를 넘어도 오래된 기억이 압축되지 않던 문제를 고쳤어요.\n- 인물들이 더 냉정해졌어요. 늘 하는 스킨십이나 대화만으로는 애정·신뢰가 계속 오르지 않고, 무리한 요구나 가치관에 어긋난 행동에는 내려가요. 높은 애정·신뢰는 날이 지나면 조금씩 식어요. 애정이 높아도 자기 판단에 어긋나는 요구는 거절하고, 지난 선택을 후회하기도 해요.\n- 서술에 턴 기록이 빠졌을 때 Claude에서 상황 정리가 실패하던 문제를 고쳤어요.\n- 인물 화면의 NPC 소지금 표시를 뺐어요. 인물 카드 왼쪽 띠 색(적대·우호·중립)은 신뢰로 정해져요.\n- 분석 꾸러미에 Gemini·DeepSeek API 키가 들어가지 않게 했어요.",
+    "published_at": "2026-10-21"
   }
 }
