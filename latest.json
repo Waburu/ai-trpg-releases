@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 44,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p44.pck",
-    "sha256": "9e69051a2df85e5e8769c79d88571963373df0835c1aa14b5e9b3e4fd49fc32d",
-    "sig": "dz4/ZR4spw1LcZYX/fkJla4/odnyOw6RaP8epYOHkHHUdHP1DLrHHyWmbUTc8/1GPcmLmOK/t7kDestyb5WT5qCLAt6lsmHd89bIoJtFa1zgkZOveUnV08XC5eCl5aEfXtDOdf5M3J0dvz0lQFCW9TeWClVozQIAYZ/jzdyAjqrXX3xMLfXJw/Sc+dnJWLYQSvpvfSQniFA69YNoOdTdnPEC0o8BSppbznjyRiWGjl7KfBUaGVKzBZq+PM7k5FG9BCQKbHZU/nNUdgYYkT9moOrF5ERLK8UGP0PLYrKC3C7r5jzLK4fINu6tJSyzhOgGLq+wr9g5LHcdJ2ul3sDepQ==",
-    "size": 1596140,
-    "notes": "**0.1.4 패치 44**\n- 딥시크 서술이 사고 모드를 끄고 온도 0.85로 가요. 사고 모드에서는 온도가 먹지 않아 문장을 조절할 수 없었어요. 응답이 더 빨라지고 턴 기록이 빠지는 일도 줄어요. 설정의 사고 깊이는 딥시크에는 적용되지 않아요.",
+    "n": 45,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p45.pck",
+    "sha256": "d34e2318a05d50ddeb8660b08ec4d612b536fcafd9f2d13e13659e7481c4c8b5",
+    "sig": "PSGCZUv+uBA5i56L6L5DUJcZtKIZlnsH4+PhVSSIZurd9veNOZMHBNqnTGt8WX731h2HO/BE10z7GW2BSDjvFY1ZhDqwrgHDnvRNRyQ8i2AJG7nkbtKX16rdjx2I6/jP+IAHwRrO9lmWBteI+VMWAeN30KHCEMYVCEipyv4Cu8aqioY1LlLufPftlP2j166AlgELUjig3qXoxvVzFelHRsqNbbKkdqi04L2WxqoYApp2sq/n/Kztw1VZOEd4ySlS7A4J8Qgdcqshg0MvXa3Nl13jr+zE5oY033UdLFfmzBi03AhIu+JaEejP8jFzIuwZUo7z15+kg5gObk3S/jeYxA==",
+    "size": 1598380,
+    "notes": "**0.1.4 패치 45**\n- 서술·요약·판정 모델을 제공자와 상관없이 고를 수 있어요. 설정 › API에 Claude·Gemini·DeepSeek 키 칸이 늘 보이고, 쓰는 모델의 키만 있으면 돼요. 제공자 선택 줄은 없어졌어요.\n- 요약 모델과 판정 모델에 \"자동\"이 생겼어요. 자동이면 서술 모델 제공자의 기본 모델을 써서 지금과 똑같이 움직여요. 판정 모델은 판정 칸(설정, 이야기 메뉴 › 판정)에서 골라요.\n- 서술은 Claude나 Gemini로, 요약과 판정은 DeepSeek으로 두는 조합이 가능해요. DeepSeek은 상황 정리와 판정은 잘하고 어두운 장면도 거절하지 않아요.\n- 키가 없는 제공자의 모델을 고르면 설정에 붉은 안내가 뜨고, 모델 시트에서는 \"키 없음\"으로 보여요.",
     "published_at": "2026-10-23"
   }
 }
