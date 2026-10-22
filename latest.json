@@ -46,12 +46,12 @@
   ],
   "patch": {
     "base": "0.1.4",
-    "n": 43,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p43.pck",
-    "sha256": "166c97a5f2e9a3c17775faad8e83f48d7d4952233999222b7b320ddd82a74c1f",
-    "sig": "LM4f28j2wHCw5bZlPGjmIRSkBxOEYGx3aFMcVc3VUvCEQdY+LJh/ESD2ylyFp/totdPePP/9+diO1ju4ZPy9wWkpKnz/1e3BMh6TjDtnLGmQPivs7qDpCKxDQAURQm5sFLRdUhdDYWO/6Afquc0bqc4PGHK7dwok3FFTb9SL0sIeoDYY+BK9PlixeRpyEl6aMMsGCqJQhsIy2AnI2F94jxdEy/Toj2ae5dyLCoD6/jOzCqAA7TTnD3Vrj21YVKLdUVFDBkK5nhEVg0PUsZtIkin5EIG+gEGI9NJrx7lscydanoUx8NEIo8DNHxAP2OZy9DuXy7p1mb/UrhsFCXA3tw==",
-    "size": 1596044,
-    "notes": "**0.1.4 패치 43**\n- 딥시크(DeepSeek)를 쓸 수 있어요. 설정 › 제공자에서 딥시크를 고르고 키를 넣으면 서술은 V4.1 Flash(기본)나 V4 Pro가, 기록 정리와 판정은 V4.1 Flash가 맡아요. 요금이 훨씬 싸고, 평일 10–13시·15–19시(한국 시각)가 아니면 반값이에요.\n- 기억 화면이 [전체 서사] [과거] 탭으로 나뉘었어요. 전체 서사의 책 아이콘을 누르면 지금까지의 기억을 서술 모델이 2천 자 안쪽의 \"지나간 과거\"로 압축하고, 다음 기록 정리 때 이야기에 반영돼요.\n- 기억이 20개를 넘어도 오래된 기억이 압축되지 않던 문제를 고쳤어요.\n- 인물들이 더 냉정해졌어요. 늘 하는 스킨십이나 대화만으로는 애정·신뢰가 계속 오르지 않고, 무리한 요구나 가치관에 어긋난 행동에는 내려가요. 높은 애정·신뢰는 날이 지나면 조금씩 식어요. 애정이 높아도 자기 판단에 어긋나는 요구는 거절하고, 지난 선택을 후회하기도 해요.\n- 서술에 턴 기록이 빠졌을 때 Claude에서 상황 정리가 실패하던 문제를 고쳤어요.\n- 인물 화면의 NPC 소지금 표시를 뺐어요. 인물 카드 왼쪽 띠 색(적대·우호·중립)은 신뢰로 정해져요.\n- 분석 꾸러미에 Gemini·DeepSeek API 키가 들어가지 않게 했어요.",
-    "published_at": "2026-10-21"
+    "n": 44,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.4/patch-0.1.4-p44.pck",
+    "sha256": "9e69051a2df85e5e8769c79d88571963373df0835c1aa14b5e9b3e4fd49fc32d",
+    "sig": "dz4/ZR4spw1LcZYX/fkJla4/odnyOw6RaP8epYOHkHHUdHP1DLrHHyWmbUTc8/1GPcmLmOK/t7kDestyb5WT5qCLAt6lsmHd89bIoJtFa1zgkZOveUnV08XC5eCl5aEfXtDOdf5M3J0dvz0lQFCW9TeWClVozQIAYZ/jzdyAjqrXX3xMLfXJw/Sc+dnJWLYQSvpvfSQniFA69YNoOdTdnPEC0o8BSppbznjyRiWGjl7KfBUaGVKzBZq+PM7k5FG9BCQKbHZU/nNUdgYYkT9moOrF5ERLK8UGP0PLYrKC3C7r5jzLK4fINu6tJSyzhOgGLq+wr9g5LHcdJ2ul3sDepQ==",
+    "size": 1596140,
+    "notes": "**0.1.4 패치 44**\n- 딥시크 서술이 사고 모드를 끄고 온도 0.85로 가요. 사고 모드에서는 온도가 먹지 않아 문장을 조절할 수 없었어요. 응답이 더 빨라지고 턴 기록이 빠지는 일도 줄어요. 설정의 사고 깊이는 딥시크에는 적용되지 않아요.",
+    "published_at": "2026-10-23"
   }
 }
