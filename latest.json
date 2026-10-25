@@ -58,12 +58,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 2,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p2.pck",
-    "sha256": "68e4bc74b6ca0d6bd4c6abc311a4005a091154dea3ce355274333efe92c9babc",
-    "sig": "1ppBFFYWaulNTBya97tHA7XIxf6WMaTcm3CKCDYFixNRPjPBqCwdR9Tss11HKyO2kdGpsmDOGZpOzXt39WRIwOAX4EOzDYeTIJK/gehah6jph2W0mW70cD3ki8egx+FV8QMWNe2n8GboR7V4vZ5TlUE0s9WhyF/6A5mq2OkasjvJG4Ti/1jiDtIG/4z5ylDJnQaGeKhZIQN3qGQ+2w2/JdbfhIWL4SoOWYLnl3yZgG+gHKT4b0ZlLFnuxK4N92LfSmg8b4nFy2g/Juv8mq5ToiQDVD3Dr7C8U5p+aV35ZGFFBMO+BIr7U0KBRXLHaY+byHy274N5idO9t3q8Pekkmw==",
-    "size": 1085476,
-    "notes": "- 미궁 화면 바탕을 이야기 화면과 같은 색으로 바꿨어요.\n- 전체 화면 미궁 지도에서 층의 그림마다 이름이 보여요.\n- 전체 화면 미궁 지도에 깊이 눈금을 넣었어요. 지금 층이 탐사·미답·기록 아래 중 어디쯤인지, 공인 기록이 어디인지 한눈에 보여요.\n- 층 유형마다 다른 천장·바닥 모습은 다음 발테라 팩 갱신 때 함께 보여요.",
+    "n": 3,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p3.pck",
+    "sha256": "466e73a71585f41b672dda6f21a0e126d5cd2d1a33c9bac4bc9f8c12464fc807",
+    "sig": "jOQnrE/G8KVMzQ914yZxGHEmoH1CY9wnUTMnOY0XCC/Xs/ibruGAWUz9vYsCSBvLCuJWvX+OAWBi0nZIP+fGcPCskZh3ZDynY1nRahecMqIKruImklhJXU043QURZy51sQaOWl5bAAUDQu7AcEdm1mTajo3of4BzVVESsd+jeSswBvqKbKUlOjnnW9zCiWhqOAqAVlf9KH8E+7WhJICMylzsrfhJ15IjMskH91gTDzg2wojT+3u/XqJVEURGPpnmr1QtOTDp01/vhC7tT+dDCnaSR/j3Hsmk967CvNsb4kNf2pd0GcUh900WpxoxUKJPE0S4/xaBpQimI4sJRT102Q==",
+    "size": 1158340,
+    "notes": "**0.1.5 패치 3**\n- 발테라에서 마법을 제 피로 치르면 체력이 줄어요. 2d6에서 지력과 마법 장비 보정을 뺀 만큼(적어도 1), 성공·실패와 상관없이 치러요. 제물이나 남의 피, 병에 담아 둔 피로 치르면 줄지 않아요. 판정 카드에 \"피의 대가\"가 보이고, 굴린 뒤 몇을 잃었는지 나와요.\n- \"미궁으로 향했다\"처럼 층을 말하지 않고 미궁에 들어가도 1층으로 잡아요. 미궁 지도가 \"층 모름\"으로 남지 않아요.",
     "published_at": "2026-10-25"
   }
 }
