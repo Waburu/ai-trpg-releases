@@ -58,12 +58,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 3,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p3.pck",
-    "sha256": "466e73a71585f41b672dda6f21a0e126d5cd2d1a33c9bac4bc9f8c12464fc807",
-    "sig": "jOQnrE/G8KVMzQ914yZxGHEmoH1CY9wnUTMnOY0XCC/Xs/ibruGAWUz9vYsCSBvLCuJWvX+OAWBi0nZIP+fGcPCskZh3ZDynY1nRahecMqIKruImklhJXU043QURZy51sQaOWl5bAAUDQu7AcEdm1mTajo3of4BzVVESsd+jeSswBvqKbKUlOjnnW9zCiWhqOAqAVlf9KH8E+7WhJICMylzsrfhJ15IjMskH91gTDzg2wojT+3u/XqJVEURGPpnmr1QtOTDp01/vhC7tT+dDCnaSR/j3Hsmk967CvNsb4kNf2pd0GcUh900WpxoxUKJPE0S4/xaBpQimI4sJRT102Q==",
-    "size": 1158340,
-    "notes": "**0.1.5 패치 3**\n- 발테라에서 마법을 제 피로 치르면 체력이 줄어요. 2d6에서 지력과 마법 장비 보정을 뺀 만큼(적어도 1), 성공·실패와 상관없이 치러요. 제물이나 남의 피, 병에 담아 둔 피로 치르면 줄지 않아요. 판정 카드에 \"피의 대가\"가 보이고, 굴린 뒤 몇을 잃었는지 나와요.\n- \"미궁으로 향했다\"처럼 층을 말하지 않고 미궁에 들어가도 1층으로 잡아요. 미궁 지도가 \"층 모름\"으로 남지 않아요.",
+    "n": 4,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p4.pck",
+    "sha256": "195b2d90ff4e4932e8198c921944c79d4e3693923901166eda82deabc2c262a5",
+    "sig": "r3ncyJ/3Oduq9pVipBLPwWjpBTw7DVrxDG7M89y1Gk5N3QHA7LvjN16q1HYlIk9u/yE3RutOXk8hz4Q9GIbT0l6KUz0YNajTEM9CLFejUbxy4KAbtXnnHLRZXgH/oSJeUe30mB6npGpyLpmfnGftGjj6KqpEXakQfn06RI5xJgt0C0ZE9H7fmz5o3S8b69TVLD4rZd8tSDtp+0CI0bDKlE1iryIWsLsyEaiBvg1V4wngfPS3MWf7a3G7HR5qvZbFkTovd1MygvL6L/yt/N6j+oUHzKs/EsFWv5D0tmUzoKGVH3NpmQ88ISI5IcqOO8cKbrqSTulvZgymx57fMNdgeg==",
+    "size": 1331492,
+    "notes": "- 한 턴에 함께 보내는 참고 로어를 15개까지로 줄였어요. 미궁 괴물 로어는 도시에서는 이름이 글에 나올 때만 들어가요.\n- 발테라에서 구역을 옮길 때마다 비싸게 다시 쓰던 캐시를 줄였어요. 구역이 바뀌면 그 구역 인물을 바로 다시 뽑아요.\n- 월드팩이 새 판이 되면, 진행 중인 이야기에서 손대지 않은 인물·로어에 새 내용이 반영돼요. 이번 패치 뒤에 시작한 이야기부터 돼요.\n- 인물이 나를 어떻게 보는지 적는 칸이 \"[오래됨]\" 표시 글로 굳어 버리던 문제를 고쳤어요.\n- 발테라에서 이야기 중에 새로 생긴 장소가 큰길 위가 아니라 같은 구역의 빈 건물에 찍혀요.\n- 도시 지도에서 동상·우물 같은 곳에 서 있을 때 \"그 안에서 묵는다\"고 안내하지 않아요.",
     "published_at": "2026-10-25"
   }
 }
