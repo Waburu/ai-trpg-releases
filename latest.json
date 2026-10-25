@@ -58,12 +58,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 4,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p4.pck",
-    "sha256": "195b2d90ff4e4932e8198c921944c79d4e3693923901166eda82deabc2c262a5",
-    "sig": "r3ncyJ/3Oduq9pVipBLPwWjpBTw7DVrxDG7M89y1Gk5N3QHA7LvjN16q1HYlIk9u/yE3RutOXk8hz4Q9GIbT0l6KUz0YNajTEM9CLFejUbxy4KAbtXnnHLRZXgH/oSJeUe30mB6npGpyLpmfnGftGjj6KqpEXakQfn06RI5xJgt0C0ZE9H7fmz5o3S8b69TVLD4rZd8tSDtp+0CI0bDKlE1iryIWsLsyEaiBvg1V4wngfPS3MWf7a3G7HR5qvZbFkTovd1MygvL6L/yt/N6j+oUHzKs/EsFWv5D0tmUzoKGVH3NpmQ88ISI5IcqOO8cKbrqSTulvZgymx57fMNdgeg==",
-    "size": 1331492,
-    "notes": "- 한 턴에 함께 보내는 참고 로어를 15개까지로 줄였어요. 미궁 괴물 로어는 도시에서는 이름이 글에 나올 때만 들어가요.\n- 발테라에서 구역을 옮길 때마다 비싸게 다시 쓰던 캐시를 줄였어요. 구역이 바뀌면 그 구역 인물을 바로 다시 뽑아요.\n- 월드팩이 새 판이 되면, 진행 중인 이야기에서 손대지 않은 인물·로어에 새 내용이 반영돼요. 이번 패치 뒤에 시작한 이야기부터 돼요.\n- 인물이 나를 어떻게 보는지 적는 칸이 \"[오래됨]\" 표시 글로 굳어 버리던 문제를 고쳤어요.\n- 발테라에서 이야기 중에 새로 생긴 장소가 큰길 위가 아니라 같은 구역의 빈 건물에 찍혀요.\n- 도시 지도에서 동상·우물 같은 곳에 서 있을 때 \"그 안에서 묵는다\"고 안내하지 않아요.",
-    "published_at": "2026-10-25"
+    "n": 5,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p5.pck",
+    "sha256": "14d3102d0fdbe4dab355a123e8d1845404a353e79fa8e95d145136ab42c2e20c",
+    "sig": "aE9h0JYZ0BPluakaQyISv8BdySc/NaQJfz3FSpi/QRlA0JDO0k2eJ3q2EtovgUNyeXh8oXyq9T3QgrCLV8214E9iZx62Rxl4eVM5/YIB0WodaaVk2kYnBXEYOYqeKDyGx2mro4J8rTu1AucihPzei7GGK156T6dNt6Rf6SmHeT7r9loKjORv6FXwboI1wOG+l0X490TmCi/r7Wv6IK98dFZLRjILVLY+O2KDaKWyJc3u7D0rkFRgLwe6+Ydp2BtFOcucJhI81BZYPbppfwbibD3qRs3jiaCpR6sj4TjMJm/8+lZ7OIlOY4RJSLn2DCa9MtVkHEvrNoSFQwWkK/D2wg==",
+    "size": 1359764,
+    "notes": "- 발테라 지도에서 건물 칸을 누르면 작은 집·중간 집·큰 집이 보여요. 지도에 찍힌 ▪ ▫ ■ 그대로예요.\n- 건물 칸을 눌러 [이 집 구하기]를 하면 그 집을 구하러 가는 글이 입력창에 채워져요. 주인과 값은 이야기 속 흥정으로 정하고, 손에 넣으면 고른 자리에 지도에 표시돼요. 고른 집은 호박색 테두리로 보이고, 다시 눌러 그만둘 수 있어요.\n- 지도에서 고르지 않고 이야기 속에서 집이나 가게를 얻어도 지금 구역의 빈 건물에 지도 표시가 생겨요.\n- 랜드마크 근처에서 얻은 가게가 지도에 생기지 않던 문제를 고쳤어요.",
+    "published_at": "2026-10-26"
   }
 }
