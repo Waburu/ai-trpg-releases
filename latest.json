@@ -58,12 +58,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 1,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p1.pck",
-    "sha256": "ce6c4d8b6db366c97563e77bafe77cdddd26193e7c0aeaa9de53825e536e410c",
-    "sig": "ii3wgg6oq9g5OZzDQjYlPaEmfnqpF7Wp+XSagqPSQS0HQKfEFI09EMoio4/RC7oaGMpok4CBmU3QhRIgyhc/YlheDXFJRG6XPuXyl7r9t4ALMa9leSwhblAl9cdQQEA7kCNeDS5eyFT6LxbsqZefSea7qFD/Ld5NFPmbiGy3fVc6ZhFhy+ic1sJnuR7kUCBcQg4DVlHh/DXLU9u5zZe7jNE96PADaBfjhB8qOGSsKkSKLVTOiEbr34j2JguJtvUzAvO9beVYzNbml0lA+oOdbW1Br1XnltJRnD9kwdZTrpr0yHNSPpOJSDhHqNwG160gTrBTRyKABncwUlMACdT7aw==",
-    "size": 1041564,
-    "notes": "**0.1.5 패치 1**\n- 죽음의 위기에 누가 갑자기 나타나 구해 주는 일이 줄어요. 이미 진행 중인 위협은 행동 없이 넘기면 그대로 떨어지고, 구출은 장면에 있는 사람을 플레이어가 움직였을 때만 와요. 쓰러진 뒤의 대가는 쓰러뜨린 쪽이 정해요.\n- 사건이나 만남이 하나 나온 뒤 네 턴은 새 사건이 끼어들지 않아요. 매 턴 일상 사건이 끼어드는 느낌을 줄였어요.\n- 로어가 덜 몰려요. 로어 제목의 낱말에도 확률을 둘 수 있고(\"빵 10%\"), 세력 떡밥은 제 구역에서만 나와요. 참조 로어 보기에 확률이 표시돼요.\n- 미궁 침식의 중기·말기·잠식 상태 설명에 욕망과 거리낌의 변화가 들어가요.",
+    "n": 2,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p2.pck",
+    "sha256": "68e4bc74b6ca0d6bd4c6abc311a4005a091154dea3ce355274333efe92c9babc",
+    "sig": "1ppBFFYWaulNTBya97tHA7XIxf6WMaTcm3CKCDYFixNRPjPBqCwdR9Tss11HKyO2kdGpsmDOGZpOzXt39WRIwOAX4EOzDYeTIJK/gehah6jph2W0mW70cD3ki8egx+FV8QMWNe2n8GboR7V4vZ5TlUE0s9WhyF/6A5mq2OkasjvJG4Ti/1jiDtIG/4z5ylDJnQaGeKhZIQN3qGQ+2w2/JdbfhIWL4SoOWYLnl3yZgG+gHKT4b0ZlLFnuxK4N92LfSmg8b4nFy2g/Juv8mq5ToiQDVD3Dr7C8U5p+aV35ZGFFBMO+BIr7U0KBRXLHaY+byHy274N5idO9t3q8Pekkmw==",
+    "size": 1085476,
+    "notes": "- 미궁 화면 바탕을 이야기 화면과 같은 색으로 바꿨어요.\n- 전체 화면 미궁 지도에서 층의 그림마다 이름이 보여요.\n- 전체 화면 미궁 지도에 깊이 눈금을 넣었어요. 지금 층이 탐사·미답·기록 아래 중 어디쯤인지, 공인 기록이 어디인지 한눈에 보여요.\n- 층 유형마다 다른 천장·바닥 모습은 다음 발테라 팩 갱신 때 함께 보여요.",
     "published_at": "2026-10-25"
   }
 }
