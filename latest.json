@@ -58,12 +58,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 6,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p6.pck",
-    "sha256": "4ce0e1057f9ff5848711b7e2a81e0472ff610bc7b5e23667f8a0a007ca6369a0",
-    "sig": "iM/r1xNIxqpN6uyJAZzg/JM9dVP3v9K5nGGVpEM0JTs0vn9dw+EoHg52T1q+zqhIDnD2B41S175ui9Hvshkx6k6lca3f/F7dYC05drQsJOtOjm07gagrBsCtleZEFyNfClzfwQV3PFnTKTJnjviqfNf9UQ4Pw9EXeAx3LPOeq6GI8ElDgRRUHDoTC5+K1LwUEcWrYx++AT3cJzv2vR+mbgr1OIQ9uXxnB9SupIaARvk509Dpt5J0zfGPAhiAtO3Ac7QpmPgudnCPfHO1lX6ozCsnWCg+pELwKt9a9Lsl3nsyry5LaLUzqXxCzVmfGiCxpOY28iKCTiFN+75opo2PmA==",
-    "size": 1361588,
-    "notes": "- 발테라에서 탐사대 길드 땅에 있으면 새벽의 검·브란 조·은빛 서약 세 파티가 그 자리의 사람 후보로 이야기에 들어가요. 길드 장면을 이름 없는 사람으로만 채우던 일이 줄어요. (발테라 판 10.26과 함께 받아야 해요)",
+    "n": 7,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p7.pck",
+    "sha256": "a64db2423ed53c0c9a3666589f37a66843372e9ffb414660195164bc7e9a9649",
+    "sig": "QPoWKfw0RJzZyG1gIzPigBZHsTFEUvmsXpkZS72ilnkZ54Y7728FahsK/voADS0GquHil0XQM+NTizXKb+FnlFjX0VjII+Sj+b/CH+3Xug9DGps7tVrwmvvO/znxG/Ve96pa6kZHYRJgOSJoJ9OKc/lQV7PKMRByD31XWoYC3fC1JRTadCwFPJrA7Do+/rAYfglbMCTjjQ01L21JruG7xn8wN1b5H8Qk6w8t2zrzaMBhl0wAaaOnH7y49DzR+qxHlBAacG4FFNWuN0HxvPNNobNqzX8sYPCI/6tV5Udy2j6TsaYnT+RYzauJ+9nFHHrQsehZzP7el1pDY6opC2zR+Q==",
+    "size": 1985788,
+    "notes": "- 새 월드 키리오스 수도원에 필요한 것이 들어가요. 키리오스 수도원 판과 함께 받아야 해요.\n- 구역이 적은 월드에서 같은 사건이나 만남이 구역을 옮길 때마다 다시 뜨지 않고, 한 번 일어난 일은 한참 뒤에야 다시 와요. 발테라와 아젤란은 지금 그대로예요.\n- 이야기 첫 장면에 나올 리 없는 인물(갇혀 있거나 먼 곳에 있는 사람)이 처음부터 주요 인물로 뽑히지 않아요.\n- 딥시크가 가끔 서술 대신 도구 호출 글을 내놓던 일을 고쳤어요. 앱이 그 글을 실제 호출로 바꾸거나 한 번 다시 불러요.",
     "published_at": "2026-10-26"
   }
 }
