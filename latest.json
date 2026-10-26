@@ -58,12 +58,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 5,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p5.pck",
-    "sha256": "14d3102d0fdbe4dab355a123e8d1845404a353e79fa8e95d145136ab42c2e20c",
-    "sig": "aE9h0JYZ0BPluakaQyISv8BdySc/NaQJfz3FSpi/QRlA0JDO0k2eJ3q2EtovgUNyeXh8oXyq9T3QgrCLV8214E9iZx62Rxl4eVM5/YIB0WodaaVk2kYnBXEYOYqeKDyGx2mro4J8rTu1AucihPzei7GGK156T6dNt6Rf6SmHeT7r9loKjORv6FXwboI1wOG+l0X490TmCi/r7Wv6IK98dFZLRjILVLY+O2KDaKWyJc3u7D0rkFRgLwe6+Ydp2BtFOcucJhI81BZYPbppfwbibD3qRs3jiaCpR6sj4TjMJm/8+lZ7OIlOY4RJSLn2DCa9MtVkHEvrNoSFQwWkK/D2wg==",
-    "size": 1359764,
-    "notes": "- 발테라 지도에서 건물 칸을 누르면 작은 집·중간 집·큰 집이 보여요. 지도에 찍힌 ▪ ▫ ■ 그대로예요.\n- 건물 칸을 눌러 [이 집 구하기]를 하면 그 집을 구하러 가는 글이 입력창에 채워져요. 주인과 값은 이야기 속 흥정으로 정하고, 손에 넣으면 고른 자리에 지도에 표시돼요. 고른 집은 호박색 테두리로 보이고, 다시 눌러 그만둘 수 있어요.\n- 지도에서 고르지 않고 이야기 속에서 집이나 가게를 얻어도 지금 구역의 빈 건물에 지도 표시가 생겨요.\n- 랜드마크 근처에서 얻은 가게가 지도에 생기지 않던 문제를 고쳤어요.",
+    "n": 6,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p6.pck",
+    "sha256": "4ce0e1057f9ff5848711b7e2a81e0472ff610bc7b5e23667f8a0a007ca6369a0",
+    "sig": "iM/r1xNIxqpN6uyJAZzg/JM9dVP3v9K5nGGVpEM0JTs0vn9dw+EoHg52T1q+zqhIDnD2B41S175ui9Hvshkx6k6lca3f/F7dYC05drQsJOtOjm07gagrBsCtleZEFyNfClzfwQV3PFnTKTJnjviqfNf9UQ4Pw9EXeAx3LPOeq6GI8ElDgRRUHDoTC5+K1LwUEcWrYx++AT3cJzv2vR+mbgr1OIQ9uXxnB9SupIaARvk509Dpt5J0zfGPAhiAtO3Ac7QpmPgudnCPfHO1lX6ozCsnWCg+pELwKt9a9Lsl3nsyry5LaLUzqXxCzVmfGiCxpOY28iKCTiFN+75opo2PmA==",
+    "size": 1361588,
+    "notes": "- 발테라에서 탐사대 길드 땅에 있으면 새벽의 검·브란 조·은빛 서약 세 파티가 그 자리의 사람 후보로 이야기에 들어가요. 길드 장면을 이름 없는 사람으로만 채우던 일이 줄어요. (발테라 판 10.26과 함께 받아야 해요)",
     "published_at": "2026-10-26"
   }
 }
