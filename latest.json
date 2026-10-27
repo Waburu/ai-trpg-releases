@@ -70,12 +70,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 7,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p7.pck",
-    "sha256": "a64db2423ed53c0c9a3666589f37a66843372e9ffb414660195164bc7e9a9649",
-    "sig": "QPoWKfw0RJzZyG1gIzPigBZHsTFEUvmsXpkZS72ilnkZ54Y7728FahsK/voADS0GquHil0XQM+NTizXKb+FnlFjX0VjII+Sj+b/CH+3Xug9DGps7tVrwmvvO/znxG/Ve96pa6kZHYRJgOSJoJ9OKc/lQV7PKMRByD31XWoYC3fC1JRTadCwFPJrA7Do+/rAYfglbMCTjjQ01L21JruG7xn8wN1b5H8Qk6w8t2zrzaMBhl0wAaaOnH7y49DzR+qxHlBAacG4FFNWuN0HxvPNNobNqzX8sYPCI/6tV5Udy2j6TsaYnT+RYzauJ+9nFHHrQsehZzP7el1pDY6opC2zR+Q==",
-    "size": 1985788,
-    "notes": "- 새 월드 키리오스 수도원에 필요한 것이 들어가요. 키리오스 수도원 판과 함께 받아야 해요.\n- 구역이 적은 월드에서 같은 사건이나 만남이 구역을 옮길 때마다 다시 뜨지 않고, 한 번 일어난 일은 한참 뒤에야 다시 와요. 발테라와 아젤란은 지금 그대로예요.\n- 이야기 첫 장면에 나올 리 없는 인물(갇혀 있거나 먼 곳에 있는 사람)이 처음부터 주요 인물로 뽑히지 않아요.\n- 딥시크가 가끔 서술 대신 도구 호출 글을 내놓던 일을 고쳤어요. 앱이 그 글을 실제 호출로 바꾸거나 한 번 다시 불러요.",
-    "published_at": "2026-10-26"
+    "n": 8,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p8.pck",
+    "sha256": "2229ee66abcab8e9a11b01ba38989b6b3a4a03753339eee236cded6e1c42bca9",
+    "sig": "0Ur0m29dG+pSqM8WjQdrdqF8AiOTgyhukhfgMJb7/aY04cWnK1onS25qIcoei1pDwrHuBUoJo5GOT/sW1bZ5Cn5AIqrQfkQ8RBu/2zpRPGmS4UzImX+jn7jXrJu8yqNMvcW0Eile41x82FETCJIgSsoeJH3vqXyrhWExRe7fsrzUXhPi6CGhYZHXz6TnQjr8lPWXz0Fa6YrF5y8/UE8wjIVcWIZg7+lH2Ll1IcJg6ug0ItyYlUOZp87uttiw1vb+eutywhkTdQjev056kRS9NSc29qyTWHS3oACDp2Z0hF1Pnc78LEslvYo3vqId3p/KVDrIEn4MR2S7uNDUZ/wYWw==",
+    "size": 2074860,
+    "notes": "- 달력이 생겼어요. 지도 화면 위쪽 [달력]을 누르거나 상황 서랍의 날짜를 누르면 열려요(지도 없는 월드는 달력만).\n- 이야기에서 날짜가 정해진 약속이 나오면 앱이 달력에 적어 두고, 직접 메모를 적거나 고치고 지울 수도 있어요. 만난 인물의 생일과 월드의 기념일도 달력에 보여요.\n- 7일 안에 다가오는 날을 이야기 AI가 알고 있어서, 약속한 날이 오면 장면에서 떠올려요. 플레이어 메모는 플레이어만 아는 것으로 다뤄요.\n- 대화나 하던 일이 이어지는 중에는 사건이 끼어들지 않고, 장면이 끝나거나 빌 때 엮여요.",
+    "published_at": "2026-10-28"
   }
 }
