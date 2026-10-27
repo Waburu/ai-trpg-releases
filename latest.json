@@ -24,12 +24,12 @@
       "id": "kyrios",
       "name": "키리오스 수도원",
       "description": "성녀 후보들이 사는 봉쇄 수도원의 일상 코미디",
-      "version": "10.28.4",
-      "rev": 1793120530,
+      "version": "10.28.5",
+      "rev": 1793121869,
       "size": 620394,
       "characters": 10,
-      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/55f419f4c76280c375ce069b2cc87c36eeefb0d3/packs/kyrios.json",
-      "notes": "- 달력에 요일이 생겼어요. 부활절(4월 10일)이 일요일이에요. 앱 패치 9와 함께 받아야 보여요.",
+      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/574fb4d890b10a011fde67461ba101a350b5af3d/packs/kyrios.json",
+      "notes": "- 앞 판(10.28.4)을 앱 패치 9보다 먼저 받으면 달력에 요일이 빠지던 것을 다시 넣었어요. 앱 패치 9가 적용된 뒤에 받아 주세요.",
       "min_app": "0.1.5"
     },
     {
