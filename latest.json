@@ -70,12 +70,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 8,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p8.pck",
-    "sha256": "2229ee66abcab8e9a11b01ba38989b6b3a4a03753339eee236cded6e1c42bca9",
-    "sig": "0Ur0m29dG+pSqM8WjQdrdqF8AiOTgyhukhfgMJb7/aY04cWnK1onS25qIcoei1pDwrHuBUoJo5GOT/sW1bZ5Cn5AIqrQfkQ8RBu/2zpRPGmS4UzImX+jn7jXrJu8yqNMvcW0Eile41x82FETCJIgSsoeJH3vqXyrhWExRe7fsrzUXhPi6CGhYZHXz6TnQjr8lPWXz0Fa6YrF5y8/UE8wjIVcWIZg7+lH2Ll1IcJg6ug0ItyYlUOZp87uttiw1vb+eutywhkTdQjev056kRS9NSc29qyTWHS3oACDp2Z0hF1Pnc78LEslvYo3vqId3p/KVDrIEn4MR2S7uNDUZ/wYWw==",
-    "size": 2074860,
-    "notes": "- 달력이 생겼어요. 지도 화면 위쪽 [달력]을 누르거나 상황 서랍의 날짜를 누르면 열려요(지도 없는 월드는 달력만).\n- 이야기에서 날짜가 정해진 약속이 나오면 앱이 달력에 적어 두고, 직접 메모를 적거나 고치고 지울 수도 있어요. 만난 인물의 생일과 월드의 기념일도 달력에 보여요.\n- 7일 안에 다가오는 날을 이야기 AI가 알고 있어서, 약속한 날이 오면 장면에서 떠올려요. 플레이어 메모는 플레이어만 아는 것으로 다뤄요.\n- 대화나 하던 일이 이어지는 중에는 사건이 끼어들지 않고, 장면이 끝나거나 빌 때 엮여요.",
+    "n": 9,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p9.pck",
+    "sha256": "116fbb9d502f16a4e4071b1469de1cd207803892afb0d2a800c9325f48670349",
+    "sig": "dhI0/12IgHfYrUlGxQ2Bw58k9ffVOYS7FMdluULIvqmUN5n6oeNWQkROeaxAA+0s3lAkUtAgbQV5WDsU6cXCMhssfVUAlX6/sXxMpMG0fvb1d0afyWY7QIGQvGsW76V01q1HtZVu2uToKWe8FU4L9kRfzs9YF9ADJmHo3WsfVECTwyCKqSeMlwF2ymIZTfCxGT+L/FQHISyoFVpeXBckY88lfZwYkqGPkrear1Hdvz9Lqzky2KISFwWRDnL4RquML7C//rlCA56nD2i+d0F+lhjnd38qcPt1ZFB+s8uBcfTI3GD2y5pRfru0XBrNvTEJ/WGgiD771isUXe3cXzot6A==",
+    "size": 2077388,
+    "notes": "- 요일이 있는 월드는 달력이 일요일부터 토요일까지 일곱 칸으로 보여요. AI도 오늘이 무슨 요일인지 알고 서술해서 요일을 헷갈리지 않아요. 키리오스 수도원 판과 함께 받아야 해요.\n- 월드 편집기의 달력 칸에서 요일 기준이 되는 하루(예: 1197년 4월 10일 일요일)를 적을 수 있어요.",
     "published_at": "2026-10-28"
   }
 }
