@@ -82,12 +82,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 11,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p11.pck",
-    "sha256": "1885f79f0cfcede71d2dbbf84e5bcf90d530978471aac19587a9ae42d4bfc0ba",
-    "sig": "Q9C0Bt9CKmu27JXnr5R8q9NYmye+S0/rEgWCmWFwtNtFS/lYWv9ea5zFpkZkloeYzIuAM15nNChZfjBaH72J8gflTUa9syh+CiIpwM7zdNHJqY3yJqkg5nsYY9xYLa8E8Cv9h6y+l/wP1pHLi4BDQk78zVoEw9icgVtLml+v/2kGReMT3HbxoqKRpeD8QFNNzcReqIaSHZNrCCEK2aPAnq4UbqW8q3T+48PUrOLezKHz0FKEQKtB0cKDOit3sYdIG7gjwC5nYgxdk8AClbcMcPJOqgz/wjIVIQjY3kauyYyQZpeueanmGVagcTLd65tnvSeY7Fyk80Vn4H/cDexk3w==",
-    "size": 3339376,
-    "notes": "- 월드 고르는 화면을 휴대폰에서 손가락으로 끌어 위아래로 넘길 수 있어요. 끌려고 하면 월드가 눌려 열리던 문제도 함께 고쳤어요. 목록 맨 아래 \"받을 수 있는 월드\"에서 새 월드 북부 변경령을 받을 수 있어요.",
+    "n": 12,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p12.pck",
+    "sha256": "86ebad6e74d8455007b29585181fe7db63aee2295b81d2804c687c1b95d2d146",
+    "sig": "DI8oLpKYe2aU/vw/24bPGwPwIJANT8OlPz564yKJ70+iX7vISV8DNbuFSkVsFwC+aJLV9Ojy/jMwCQugdDE5tuJDQ1KMnNvMzourz0v1WvroM5vG8jBO4hIXzN6ige7oVbYZpEqSYspP3zey7ugcV07RaWVhgXjNzti1PJUWMf27HbL4Ou8Frwo6bjrjUAyfmfmnVY7277uNNK6Rr+fu6l13beS/SR0PBWrqxJ975RwKFA1pnQnwVz1TwPXzQ7xfixlo707rnqej9O3t7QNxd8/onDodQjbLpE36tFN18lqp7LQ6AqC5PLtGsovnlXa2hkk/gHe0dtKH3d0nHq1n+g==",
+    "size": 3383184,
+    "notes": "- 월드 고르는 화면에서 [갱신]을 누르면 갱신 대신 월드가 열리던 문제를 고쳤어요(패치 11에서 생긴 문제). 이제 [갱신]을 누르면 새 판을 받는 창이 떠요.",
     "published_at": "2026-11-23"
   }
 }
