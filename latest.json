@@ -82,12 +82,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 9,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p9.pck",
-    "sha256": "116fbb9d502f16a4e4071b1469de1cd207803892afb0d2a800c9325f48670349",
-    "sig": "dhI0/12IgHfYrUlGxQ2Bw58k9ffVOYS7FMdluULIvqmUN5n6oeNWQkROeaxAA+0s3lAkUtAgbQV5WDsU6cXCMhssfVUAlX6/sXxMpMG0fvb1d0afyWY7QIGQvGsW76V01q1HtZVu2uToKWe8FU4L9kRfzs9YF9ADJmHo3WsfVECTwyCKqSeMlwF2ymIZTfCxGT+L/FQHISyoFVpeXBckY88lfZwYkqGPkrear1Hdvz9Lqzky2KISFwWRDnL4RquML7C//rlCA56nD2i+d0F+lhjnd38qcPt1ZFB+s8uBcfTI3GD2y5pRfru0XBrNvTEJ/WGgiD771isUXe3cXzot6A==",
-    "size": 2077388,
-    "notes": "- 요일이 있는 월드는 달력이 일요일부터 토요일까지 일곱 칸으로 보여요. AI도 오늘이 무슨 요일인지 알고 서술해서 요일을 헷갈리지 않아요. 키리오스 수도원 판과 함께 받아야 해요.\n- 월드 편집기의 달력 칸에서 요일 기준이 되는 하루(예: 1197년 4월 10일 일요일)를 적을 수 있어요.",
-    "published_at": "2026-10-28"
+    "n": 10,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p10.pck",
+    "sha256": "f7e727af370a7e5709de45ce8ae9a5249bd40d74249a1ebfbc8dcd5d12911f53",
+    "sig": "m5RSo/FPzylggRVYR04JFDpoPWna06Pkt6v0J6LYszMwJIE38WAtxWudEuVxRyO3X73hRVkW+JNcEIGLVwbDDHXis+6aLu6mXadSMsPzI2jhJIe+kE38DwnqpO7ENMhsOy1aNbjqjqEG0aCOv9e2QKAaXLstaRHmibgadAkGJkihXeNYhuGkCAN6MyJc9YS2EWNkedEIWu6wuvrEPDiYUhG0N9qxge1epE7KcsBD/3VZr1vW+slwDsN0NhJdVuzHfb4FrwAs3GLEEAzY0mZ4tI9M2SJ3mSdo38fat8HPIIjDIE6GwsfjaVBQnnj3mX32TauMkG3tNCCBvNoUca1vYg==",
+    "size": 3326176,
+    "notes": "- 월드 화면을 휴대폰에서 손가락으로 끌어 위아래로 넘길 수 있어요. 줄이나 버튼 위를 눌러 끌면 움직이지 않던 문제를 고쳤어요.",
+    "published_at": "2026-11-23"
   }
 }
