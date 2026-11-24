@@ -36,12 +36,12 @@
       "id": "northern-march",
       "name": "북부 변경령",
       "description": "마물의 고개를 지키는 변경백의 영지와 욕망",
-      "version": "11.24.5",
-      "rev": 1795498330,
-      "size": 1278931,
+      "version": "11.24.8",
+      "rev": 1795517570,
+      "size": 1283241,
       "characters": 27,
-      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/7f9233b0d9fe531804e05f4f8a3d89c2013c3018/packs/northern-march.json",
-      "notes": "북부 변경령 11.24.5\n- 펜힐에 가면 수도 인물들이 상황에 따라 나오도록 지역 이름을 맞춤.",
+      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/b0013ff961a584d4961e015a85121564ed42ab21/packs/northern-march.json",
+      "notes": "북부 변경령 11.24.8\n- 인물 27명이 장면에 맞게 더 잘 잡히도록 키워드를 넓힘. 펜힐 인물은 서부 대공·폐하 같은 직함으로도 불려 나옴.\n- 펜힐 인물 말투를 다시 씀(번역투 줄임).\n- 영지에 새로 갖출 방비(성문·봉화대·화장터 등)와 새 시설(교역소·치료소 등) 로어.",
       "min_app": "0.1.5"
     },
     {
