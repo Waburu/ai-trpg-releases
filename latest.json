@@ -36,12 +36,12 @@
       "id": "northern-march",
       "name": "북부 변경령",
       "description": "마물의 고개를 지키는 변경백의 영지와 욕망",
-      "version": "11.24.4",
-      "rev": 1795498215,
+      "version": "11.24.5",
+      "rev": 1795498330,
       "size": 1278931,
       "characters": 27,
-      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/db190589e3a4542b28efb2952a6e6c96524b6244/packs/northern-march.json",
-      "notes": "북부 변경령 11.24.3\n- 세 공작가(드라켄발트·솔미어·에르켄베일), 수석 마법사, 흡혈귀 대공, 악마 지휘관을 이야기가 알고 있도록 함. AI 가 공작가를 새로 지어내던 것 고침.\n- 까마귀 떼처럼 사소한 일에 의미를 붙여 결정을 요구하던 것 줄임.",
+      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/7f9233b0d9fe531804e05f4f8a3d89c2013c3018/packs/northern-march.json",
+      "notes": "북부 변경령 11.24.5\n- 펜힐에 가면 수도 인물들이 상황에 따라 나오도록 지역 이름을 맞춤.",
       "min_app": "0.1.5"
     },
     {
