@@ -36,12 +36,12 @@
       "id": "northern-march",
       "name": "북부 변경령",
       "description": "마물의 고개를 지키는 변경백의 영지와 욕망",
-      "version": "11.24.2",
-      "rev": 1795491187,
-      "size": 1278310,
+      "version": "11.24.4",
+      "rev": 1795498215,
+      "size": 1278931,
       "characters": 27,
-      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/ae493b7269532865d3bf50c126b9ec8acb2a6b3c/packs/northern-march.json",
-      "notes": "**북부 변경령 판 11.24.2**\n- 영지 사람들이 구역을 가리지 않고 고루 등장해요. 성에 있어도 마을이나 숲 사람을 만날 수 있고, 구역을 옮길 때마다 얼굴이 바뀌어요.",
+      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/db190589e3a4542b28efb2952a6e6c96524b6244/packs/northern-march.json",
+      "notes": "북부 변경령 11.24.3\n- 세 공작가(드라켄발트·솔미어·에르켄베일), 수석 마법사, 흡혈귀 대공, 악마 지휘관을 이야기가 알고 있도록 함. AI 가 공작가를 새로 지어내던 것 고침.\n- 까마귀 떼처럼 사소한 일에 의미를 붙여 결정을 요구하던 것 줄임.",
       "min_app": "0.1.5"
     },
     {
