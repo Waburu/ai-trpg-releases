@@ -36,12 +36,12 @@
       "id": "northern-march",
       "name": "북부 변경령",
       "description": "마물의 고개를 지키는 변경백의 영지와 욕망",
-      "version": "11.24",
-      "rev": 1795490983,
-      "size": 1278177,
+      "version": "11.24.2",
+      "rev": 1795491187,
+      "size": 1278310,
       "characters": 27,
-      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/85a9995afb977df6b45238066a2ddf28beee3547/packs/northern-march.json",
-      "notes": "**북부 변경령 판 11.24**\n- 인물들이 시키기 전에 먼저 움직여요. 곁에 있는 사람이 제 목표와 성격대로 묻고, 제안하고, 일을 벌여요.\n- 인물들이 값과 셈 이야기를 덜 해요. 돈은 큰돈이 실제로 오갈 때만 움직여요.\n- 영지에 일이 생긴 턴에는 소유 카드의 영지 값이 바로 바뀌어요. 다시 지은 건물은 시설에 더해져요.",
+      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/ae493b7269532865d3bf50c126b9ec8acb2a6b3c/packs/northern-march.json",
+      "notes": "**북부 변경령 판 11.24.2**\n- 영지 사람들이 구역을 가리지 않고 고루 등장해요. 성에 있어도 마을이나 숲 사람을 만날 수 있고, 구역을 옮길 때마다 얼굴이 바뀌어요.",
       "min_app": "0.1.5"
     },
     {
