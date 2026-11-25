@@ -36,12 +36,12 @@
       "id": "northern-march",
       "name": "북부 변경령",
       "description": "마물의 고개를 지키는 변경백의 영지와 욕망",
-      "version": "11.25.5",
-      "rev": 1795605422,
-      "size": 1376198,
+      "version": "11.26.3",
+      "rev": 1795622514,
+      "size": 1376538,
       "characters": 27,
-      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/35bb8dcddda53c2d7f9d9d9e02b1224afe1cf2ca/packs/northern-march.json",
-      "notes": "북부 변경령 11.25.5\n- 영지 자산은 값이 실제로 바뀔 때만 고쳐 써요. 여러 날이 지나면 끝난 공사와 줄어든 물자가 반영돼요.",
+      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/db8af7a760f201e2f83d405352b5b4c228836053/packs/northern-march.json",
+      "notes": "북부 변경령 11.26.3\n- 인물들이 이야기에 더 잘 나오도록 키워드를 묶음(수비대, 프릭쇼, 공작가 등)으로 다시 짰어요.\n- 팩 인물이 등장하는 사건 12개를 그 인물과 이었어요. '먼 친척 누이의 방문' 사건은 뺐어요.",
       "min_app": "0.1.5"
     },
     {
