@@ -82,12 +82,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 13,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p13.pck",
-    "sha256": "ab97582b371bbaa1b746211c209ed7577775d327f439ba7347dbaeadef9060c7",
-    "sig": "1sgvHXMRctDh/zSyKB4paL9BDw6bUq9o6V++74hFebAN3CR4kAYSvcwnLTC8gqoGCeZIbfuc4QBfqmn7+UBU2JHJTO23zaFHxyV12iK6AtA766hQ/0qp5hrIFLMVjr1KciaC5MAxkJ01LMQsYQ14Yw5WnFUQLoGt9i5nismhrE/HLoYKDJv+/NXxXfwIaw5jcwCYjrteM8EgF/9TanIv/OapWERM05i0RN5ygzLD2STLC0WbckrqNxoe0x8D3EsNg5rdsQuTqEwECjBT1Vgs2R8e8ER4ESpgIOk6eumEu9f0v5jH2obz7KvehdNf66xXwfqHujwbF2OVs7AGED4nEw==",
-    "size": 3491088,
-    "notes": "- 이야기가 길어져도 인물의 말씨가 흐려지지 않게 했어요. 장면에 있는 인물은 매 턴 자기 말투를 다시 읽어요.\n- 인물이 플레이어와 겪은 일을 기억해요. 지난 이야기 기록 가운데 그 인물이 나온 일을 인물 옆에 붙여, 다시 만났을 때 지난 일을 꺼낼 수 있어요. 진행 중인 이야기는 다음 기록 정리 때부터 적용돼요.\n- 가까워진 인물도 거절하고 다른 의견을 내요. 다정해지는 방식도 그 인물답게 남아요.\n- 북부 변경령 지도를 새로 그렸어요. 새로 지은 시설이 지도에 나타나요.",
+    "n": 14,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p14.pck",
+    "sha256": "9285c836f22a1aa8a2c1fd3531757e8eeae02b3b989dab9798528e5b665db52f",
+    "sig": "0K44f2ytnTW8OfW7Ya6ZR+/+6hAgV/HCw4VfgBZz2n0ev5EukY4IPaotB1kOEBqhBMBFNfurbnKzidyPKAg+cSvwrTJNGV+W5qOeA7OIpmAPW4PFUGNw6366Tk5ABfvkR/+CHeFl1KEtjan6fqo81NXRu0r+M4UMHSzf7dv/xOJPQMvr80r4KhyyJPIFrh2cjVLAQ+uZT7gfsYCvhKRcgWE4NXKlvxh7VIkLLoehhQJau/ux9P7YkrwV6lhIA1oOtSZrm/2aaJpED6pyfyE2ALZZhbpcLOOHgmjqvV9GqgwxRXZ2m0BfMb7F4BBLLDgMx6FCGapzm/yox6zaRTYBBA==",
+    "size": 3504400,
+    "notes": "- 인물 대사가 매번 재담으로 끝나던 것을 줄였어요. 말씨는 그대로 지키고, 버릇과 농담은 가끔만 나와요.\n- '반은', '~든지 말든지' 같은 번역투 대사를 줄였어요.\n- 가까워졌을 때의 말투는 실제로 가까워진 뒤에만 나와요.\n- 기억에 자잘한 일 대신 이야기의 방점(결정, 약속, 드러난 사실, 관계가 달라진 순간)만 적어요. 별일 없는 턴은 적지 않아요.",
     "published_at": "2026-11-25"
   }
 }
