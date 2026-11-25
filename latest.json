@@ -82,12 +82,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 16,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p16.pck",
-    "sha256": "a375f025f8eeb6252508631f43190713357270865a328c6eae2c42449f44fca5",
-    "sig": "RKvsyOwH+b9piKu8CQll9YM67e/UcGjzOl9K8DYt+KJ6kqXNO7f0ZCvtNyj39bTWiXBaDNzHJz4W3RZvn1SSYcHk/xeZic79GOWL0ll60UOoDihunTO0g2WV0VgNxuLBB/yJNMf0+REphOVMmFUAwOog7ES9kHusuxFbdAZnoaEuRGKsjyi8ZRUFtsDioJ1VjtF/qO5F4mKP28QqVVKyMEBaT4DZCoOztSAVddLVZkZYEHZE9YqLammaN5f367sXphIZpJ74es/S//BowlM+XEeRREvfOoAJFPle49ojw/PVilIskMLRkbkoYGAe/1aJWZqyRMm07OJINeW3xKnRSw==",
-    "size": 3507392,
-    "notes": "- 같은 인물의 카드가 둘로 갈리던 문제를 고쳤어요(예: 코코와 코델리아). 이미 갈린 카드는 다음 턴에 자동으로 합쳐져요.\n- 장면이나 날짜가 바뀌었는데 인물 카드에 지난 장면의 '최근 있었던 일'이 남던 문제를 고쳤어요.",
-    "published_at": "2026-11-25"
+    "n": 17,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p17.pck",
+    "sha256": "f9a214cae1a5044a998ad5c7133a66e55eb019e67c28664b201453a7fb6e8231",
+    "sig": "Vrz8m+aUP3RhXdVVzGPjnxG8Cy4DJGayK/l61QS+CxwSwP524fVlsoKG1KJmzJNK16n5B/AYKkiS2iVi6B9OHTWMmwystrMWUwbS2Gi0qxnRRwiZZ8FlMJb4U6DroNHZJlWH/1jr8a/hgW9IpzTTCQEZN9LYOvPXF7XLV+qJoHM5Mm4WXfWcXNWQGgQBLNsUGZLUIvWNlO2F8OOlA/Nax5+lEGH3XdiiMp4awv+bJujgdm+AbdCzsxhX5mUKDO75wKz8N66scDF6ucXZSqkGiZVtXpTLsGhjNZS+Y/d7uLjKE0Wzkgd+yEds/4Rb36LdM5nlZNDysAPj2gflozbk9A==",
+    "size": 3510880,
+    "notes": "- 인물 기억을 다시 만들었어요. 줄거리 사실 대신 플레이어와 그 인물 사이에 있었던 일만, 10턴마다 인물당 많아야 한 줄 남겨요. 예전 인물 기억은 다음 기록 정리 때 한 번 지워져요.\n- 매 턴 기억 한 줄을 없앴어요. 지난 이야기 기록은 10턴마다 정리할 때만 써요.\n- 주요 인물이 이야기 내내 바뀌지 않던 문제를 고쳤어요(북부 변경령). 20턴마다 다시 뽑아요.\n- 사건에 팩 인물이 이어져 있으면 그 인물이 등장해요. 같은 역할의 새 인물이 지어지던 문제를 고쳤어요.",
+    "published_at": "2026-11-26"
   }
 }
