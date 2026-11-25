@@ -82,12 +82,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 12,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p12.pck",
-    "sha256": "86ebad6e74d8455007b29585181fe7db63aee2295b81d2804c687c1b95d2d146",
-    "sig": "DI8oLpKYe2aU/vw/24bPGwPwIJANT8OlPz564yKJ70+iX7vISV8DNbuFSkVsFwC+aJLV9Ojy/jMwCQugdDE5tuJDQ1KMnNvMzourz0v1WvroM5vG8jBO4hIXzN6ige7oVbYZpEqSYspP3zey7ugcV07RaWVhgXjNzti1PJUWMf27HbL4Ou8Frwo6bjrjUAyfmfmnVY7277uNNK6Rr+fu6l13beS/SR0PBWrqxJ975RwKFA1pnQnwVz1TwPXzQ7xfixlo707rnqej9O3t7QNxd8/onDodQjbLpE36tFN18lqp7LQ6AqC5PLtGsovnlXa2hkk/gHe0dtKH3d0nHq1n+g==",
-    "size": 3383184,
-    "notes": "- 월드 고르는 화면에서 [갱신]을 누르면 갱신 대신 월드가 열리던 문제를 고쳤어요(패치 11에서 생긴 문제). 이제 [갱신]을 누르면 새 판을 받는 창이 떠요.",
-    "published_at": "2026-11-23"
+    "n": 13,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p13.pck",
+    "sha256": "ab97582b371bbaa1b746211c209ed7577775d327f439ba7347dbaeadef9060c7",
+    "sig": "1sgvHXMRctDh/zSyKB4paL9BDw6bUq9o6V++74hFebAN3CR4kAYSvcwnLTC8gqoGCeZIbfuc4QBfqmn7+UBU2JHJTO23zaFHxyV12iK6AtA766hQ/0qp5hrIFLMVjr1KciaC5MAxkJ01LMQsYQ14Yw5WnFUQLoGt9i5nismhrE/HLoYKDJv+/NXxXfwIaw5jcwCYjrteM8EgF/9TanIv/OapWERM05i0RN5ygzLD2STLC0WbckrqNxoe0x8D3EsNg5rdsQuTqEwECjBT1Vgs2R8e8ER4ESpgIOk6eumEu9f0v5jH2obz7KvehdNf66xXwfqHujwbF2OVs7AGED4nEw==",
+    "size": 3491088,
+    "notes": "- 이야기가 길어져도 인물의 말씨가 흐려지지 않게 했어요. 장면에 있는 인물은 매 턴 자기 말투를 다시 읽어요.\n- 인물이 플레이어와 겪은 일을 기억해요. 지난 이야기 기록 가운데 그 인물이 나온 일을 인물 옆에 붙여, 다시 만났을 때 지난 일을 꺼낼 수 있어요. 진행 중인 이야기는 다음 기록 정리 때부터 적용돼요.\n- 가까워진 인물도 거절하고 다른 의견을 내요. 다정해지는 방식도 그 인물답게 남아요.\n- 북부 변경령 지도를 새로 그렸어요. 새로 지은 시설이 지도에 나타나요.",
+    "published_at": "2026-11-25"
   }
 }
