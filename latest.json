@@ -36,12 +36,12 @@
       "id": "northern-march",
       "name": "북부 변경령",
       "description": "마물의 고개를 지키는 변경백의 영지와 욕망",
-      "version": "11.26.3",
-      "rev": 1795622514,
-      "size": 1376538,
+      "version": "11.26.6",
+      "rev": 1795676576,
+      "size": 1376869,
       "characters": 27,
-      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/db8af7a760f201e2f83d405352b5b4c228836053/packs/northern-march.json",
-      "notes": "북부 변경령 11.26.3\n- 인물들이 이야기에 더 잘 나오도록 키워드를 묶음(수비대, 프릭쇼, 공작가 등)으로 다시 짰어요.\n- 팩 인물이 등장하는 사건 12개를 그 인물과 이었어요. '먼 친척 누이의 방문' 사건은 뺐어요.",
+      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/97e0c2ffa19ac218f30dbd59cb837c72edacd415/packs/northern-march.json",
+      "notes": "북부 변경령 11.26.6\n- 이브를 다시 다듬었어요. 지난 주인이 집안을 망치는 걸 지켜본 뒤로, 응석을 다 받아 주며 주인을 제 뜻대로 이끄는 집사예요.\n- 이브의 장부 타령을 줄였어요.",
       "min_app": "0.1.5"
     },
     {
