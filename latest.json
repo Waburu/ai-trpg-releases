@@ -82,12 +82,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 19,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p19.pck",
-    "sha256": "64445fd77457d7e3f0079b68f3f6c2afd4d7cd6e239ad451ef1132d227f5cddf",
-    "sig": "j1i26511EGE91dz490AGck24wyb7mqmDelKMvMBimq4KApz4hkhRohqcW45kfU21ne6o4Op/j2OCrHsR6iA5Scn1kP0JlxwnHl4RcrKCYzGRjIAddAYBEz07ZAAhXByLMOWUxmb2MAePmwU+6tUhXJUumIEVZB2fCuqjI+k4qbEMWiFwb8yAR2fdhfn0GI71jGF94HFyZX62aLLfIxwIqREl6uPI0VAV+G+BLGmD3Ejd03J/iHroEGM0VZd8bBgFfrlLpI47yq9WbYXxHYAeReBLtPDTIDEFkDk7GDt0mIq0neP3X59IvPS9ib22hPsfpXPeZjRwkihBhX0wF3ApBw==",
-    "size": 3505376,
-    "notes": "- 인물 화면 맨 아래 '기억' 칸에 그 인물과 플레이어 사이에 있었던 일 가운데 마음이 움직였거나 계기가 될 일만 남아요. 행동 일지나 외모 묘사는 들어가지 않아요. 예전 글은 다음 기록 정리 때 한 번 지워져요.\n- 턴 끝에서 인물이 선택지를 늘어놓고 '결정은 당신 몫'이라 하던 것을 줄였어요. 인물이 제 성격대로 행동을 권하거나 밀어붙여요.",
+    "n": 20,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p20.pck",
+    "sha256": "03b7dfbdf6ec7cc0ae995906a710c61b5290a515a35356e8c096344c9462e2d3",
+    "sig": "GLNKWbUSyNzI4sZa9P+zOTaAvWKGAnXkx13rvMUyt0Yx+xg4v5iS+nXVIT7OLloch1HBIrem26mYJIdXoH7k3fJO7WzF3CpJcpJYMZYFeCaNlAtw4SwdpLotbMEdf73vjimlhD4COMazSnAfxar/JrZ9oFNnZ7n8quksfkZ8XnpiB6KTXRy2YcXf2TEnltmxpX4C21fiGfZ0NG7P3papb7tlbZUVco8XmM+JGFa4CBz755ayrK/IU/uAdayMaUg9s9eNoAA/jjeBCwGvVNeDWrrW023mgNIHUb1n4PMFpWTz30Ixt0MANuwfG9uPkZMnx0rOWJpTkXJ5BLEhnbcsdA==",
+    "size": 3505824,
+    "notes": "- 서술 모델이 참고로 받은 인물을 모두 장면에 끌어들이던 문제를 줄였어요(특히 제미니). 이미 장면에 있거나 장면이 실제로 부르는 인물만 나와요.",
     "published_at": "2026-11-26"
   }
 }
