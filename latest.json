@@ -82,12 +82,12 @@
   ],
   "patch": {
     "base": "0.1.5",
-    "n": 18,
-    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p18.pck",
-    "sha256": "a24c89f141a9b19003ba578dc2635e7fdc83bd63ee11387f6b37485eca6823db",
-    "sig": "AM9G/pbo9q7+0H42PT8N9LhZyXZDM4lLIC26k6WYvYi46KTb0chvLQv3eD9w0cIJYAejBMEkwiTWMDXX9BEFAgLSoUx/zvp3Zup86k42qTG+bDy3OOvmRoCC5B8JpX1VKox6cThLhWaleyCqwQFlZYyD0Bu+LelodmhrenI0xZjDb3BUvghHE7O8eenTPGC+XHJW5Zgz7W40jUMdTXGRT6h2CLaMwPYPPhmKWL5/3b58eullZr26Bb1eoAlNJ+Dub1vxhmGs/2oVQSQibHx16zBZer1TJAX797wc8P0imTXPM2kdHbPAm/OnYQx68noMP7N1Z7y4anbHC5dSfB2HKw==",
-    "size": 3504496,
-    "notes": "- 인물 기억('있었던 일' 줄)을 없앴어요. 대신 인물 카드의 '나에 대한 평가'가 그 인물이 플레이어를 어떻게 여기는지와 그렇게 된 계기를 함께 담아요. 마음이 실제로 움직였을 때만 바뀌어요.\n- 기록 정리 때 나가던 보조 호출이 하나 줄었어요.",
+    "n": 19,
+    "url": "https://github.com/Waburu/ai-trpg-releases/releases/download/v0.1.5/patch-0.1.5-p19.pck",
+    "sha256": "64445fd77457d7e3f0079b68f3f6c2afd4d7cd6e239ad451ef1132d227f5cddf",
+    "sig": "j1i26511EGE91dz490AGck24wyb7mqmDelKMvMBimq4KApz4hkhRohqcW45kfU21ne6o4Op/j2OCrHsR6iA5Scn1kP0JlxwnHl4RcrKCYzGRjIAddAYBEz07ZAAhXByLMOWUxmb2MAePmwU+6tUhXJUumIEVZB2fCuqjI+k4qbEMWiFwb8yAR2fdhfn0GI71jGF94HFyZX62aLLfIxwIqREl6uPI0VAV+G+BLGmD3Ejd03J/iHroEGM0VZd8bBgFfrlLpI47yq9WbYXxHYAeReBLtPDTIDEFkDk7GDt0mIq0neP3X59IvPS9ib22hPsfpXPeZjRwkihBhX0wF3ApBw==",
+    "size": 3505376,
+    "notes": "- 인물 화면 맨 아래 '기억' 칸에 그 인물과 플레이어 사이에 있었던 일 가운데 마음이 움직였거나 계기가 될 일만 남아요. 행동 일지나 외모 묘사는 들어가지 않아요. 예전 글은 다음 기록 정리 때 한 번 지워져요.\n- 턴 끝에서 인물이 선택지를 늘어놓고 '결정은 당신 몫'이라 하던 것을 줄였어요. 인물이 제 성격대로 행동을 권하거나 밀어붙여요.",
     "published_at": "2026-11-26"
   }
 }
