@@ -36,12 +36,12 @@
       "id": "northern-march",
       "name": "북부 변경령",
       "description": "마물의 고개를 지키는 변경백의 영지와 욕망",
-      "version": "11.26.6",
-      "rev": 1795676576,
-      "size": 1376869,
+      "version": "11.28.3",
+      "rev": 1795792118,
+      "size": 1387563,
       "characters": 27,
-      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/97e0c2ffa19ac218f30dbd59cb837c72edacd415/packs/northern-march.json",
-      "notes": "북부 변경령 11.26.6\n- 이브를 다시 다듬었어요. 지난 주인이 집안을 망치는 걸 지켜본 뒤로, 응석을 다 받아 주며 주인을 제 뜻대로 이끄는 집사예요.\n- 이브의 장부 타령을 줄였어요.",
+      "url": "https://raw.githubusercontent.com/Waburu/ai-trpg-releases/976f70cb81d32894d8fab6e2e9536612cca84fb9/packs/northern-march.json",
+      "notes": "북부 변경령 11.28.3\n- 열두 달 모두 즐기고 노는 기념일이 생겼어요. 썰매 경주, 꿀과자, 꽃불 밤, 물놀이, 첫 술통, 가면 밤, 등불 밤 등.\n- 펜힐 행사: 해마다 꼭 가야 하는 유인석 봉헌(8월 1일)과 골라서 가는 봄 무도회, 왕궁 마상 대회, 즉위 기념일 왕궁 연회. 수도는 암투와 타락의 무대예요.",
       "min_app": "0.1.5"
     },
     {
